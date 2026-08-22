@@ -13,6 +13,7 @@ htmlcov/
 # Local databases
 *.db
 *.sqlite3
+!backend/data/catalogue.db
 
 # Environment
 .env

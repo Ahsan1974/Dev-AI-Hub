@@ -1,57 +1,48 @@
-# Deploy DevAI Hub
+# Deploy DevAI Hub (Vercel)
 
-This project is **two services**:
+Both the React frontend and FastAPI API run on **Vercel**.
 
-| Piece | Host | Why |
-|-------|------|-----|
-| React frontend (`frontend/`) | **Vercel** | Static Vite build |
-| FastAPI backend (`backend/`) | **Render** (free) | Vercel cannot run this FastAPI + SQLite app as-is |
+| Piece | Vercel project | URL |
+|-------|----------------|-----|
+| Frontend | `dev-ai-hub` | https://dev-ai-hub.vercel.app |
+| API | `dev-ai-hub-api` | https://dev-ai-hub-api.vercel.app |
 
----
-
-## 1. Deploy the API on Render (do this first)
-
-1. Open [https://dashboard.render.com](https://dashboard.render.com) and sign in with GitHub.
-2. **New** → **Blueprint** → select `Ahsan1974/Dev-AI-Hub`.
-3. Render reads `render.yaml` and creates `devai-hub-api`.
-4. Wait for the first deploy (auto-seed loads ~500 tools; first boot can take a few minutes).
-5. Copy the service URL, e.g. `https://devai-hub-api.onrender.com`.
-6. Confirm health: `https://YOUR-API.onrender.com/api/health`
-
-> Free Render apps sleep after idle time. The first request after sleep can take ~30–60s.
+The API ships a pre-built SQLite catalogue (`backend/data/catalogue.db`) and copies it to `/tmp` on each cold start.
 
 ---
 
-## 2. Deploy the frontend on Vercel
+## Environment variables
 
-1. Open [https://vercel.com/new](https://vercel.com/new).
-2. Import **`Ahsan1974/Dev-AI-Hub`**.
-3. Configure:
-   - **Framework Preset:** Vite  
-   - **Root Directory:** `frontend`  
-   - **Build Command:** `npm run build`  
-   - **Output Directory:** `dist`
-4. **Environment Variables** → add:
+### Frontend (`dev-ai-hub`)
 
-   | Name | Value |
-   |------|-------|
-   | `VITE_API_BASE_URL` | `https://YOUR-API.onrender.com/api` |
+| Name | Value |
+|------|-------|
+| `VITE_API_BASE_URL` | `https://dev-ai-hub-api.vercel.app/api` |
 
-5. Deploy.
-6. Copy your Vercel URL (e.g. `https://dev-ai-hub.vercel.app`).
+### API (`dev-ai-hub-api`)
+
+| Name | Value |
+|------|-------|
+| `ENVIRONMENT` | `production` |
+| `DEBUG` | `false` |
+| `AUTO_SEED` | `false` |
+| `CORS_ORIGINS` | `https://dev-ai-hub.vercel.app` |
+
+`DATABASE_URL` defaults to `sqlite+aiosqlite:////tmp/devai_hub.db` when `VERCEL=1`.
 
 ---
 
-## 3. Wire CORS
+## Redeploy from CLI
 
-On Render → `devai-hub-api` → **Environment** → set:
+```powershell
+# API
+cd backend
+npx --prefix ..\frontend vercel --prod --yes --scope ahsannadeem432002-gmailcoms-projects
 
-```text
-CORS_ORIGINS=https://YOUR-VERCEL-URL.vercel.app,http://localhost:5173
+# Frontend
+cd ..\frontend
+npx vercel --prod --yes --scope ahsannadeem432002-gmailcoms-projects
 ```
-
-Redeploy the API (or wait for auto-redeploy).  
-`*.vercel.app` preview URLs are already allowed via regex in the API.
 
 ---
 
@@ -64,22 +55,4 @@ Redeploy the API (or wait for auto-redeploy).
 - App: http://localhost:5173  
 - API docs: http://localhost:8000/docs  
 
----
-
-## Environment cheat sheet
-
-### Frontend (Vercel)
-
-```env
-VITE_API_BASE_URL=https://YOUR-API.onrender.com/api
-```
-
-### Backend (Render)
-
-```env
-ENVIRONMENT=production
-DEBUG=false
-DATABASE_URL=sqlite+aiosqlite:///./devai_hub.db
-AUTO_SEED=true
-CORS_ORIGINS=https://YOUR-VERCEL-URL.vercel.app
-```
+Optional: Render blueprint (`render.yaml`) remains available if you prefer a always-on free API host instead of Vercel Functions.

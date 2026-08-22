@@ -13,6 +13,10 @@ from sqlalchemy.ext.asyncio import (
 )
 
 from app.core.config import settings
+from app.db.runtime_db import prepare_sqlite_database
+
+# Serverless hosts are read-only except /tmp — materialise the DB before the engine opens.
+prepare_sqlite_database()
 
 
 def build_engine(url: str | None = None, **kwargs: Any) -> AsyncEngine:

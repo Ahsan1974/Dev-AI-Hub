@@ -4,8 +4,9 @@ from __future__ import annotations
 
 from functools import lru_cache
 from typing import Literal
+import os
 
-from pydantic import Field, field_validator
+from pydantic import field_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
@@ -27,7 +28,12 @@ class Settings(BaseSettings):
 
     api_prefix: str = "/api"
 
-    database_url: str = "sqlite+aiosqlite:///./devai_hub.db"
+    # On Vercel the filesystem is read-only except /tmp.
+    database_url: str = (
+        "sqlite+aiosqlite:////tmp/devai_hub.db"
+        if os.environ.get("VERCEL")
+        else "sqlite+aiosqlite:///./devai_hub.db"
+    )
     db_echo: bool = False
 
     # Stored as a plain string so .env can use a comma-separated list.
