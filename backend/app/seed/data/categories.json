@@ -358,5 +358,197 @@
     "icon": "wrench",
     "sort_order": 26,
     "description": "Classic developer tools that are useful without any AI workflow."
+  },
+  {
+    "name": "Note Taking",
+    "slug": "note-taking",
+    "group": "Research & Knowledge",
+    "icon": "notebook",
+    "sort_order": 36,
+    "description": "Capture and organise engineering notes."
+  },
+  {
+    "name": "Knowledge Base",
+    "slug": "knowledge-base",
+    "group": "Research & Knowledge",
+    "icon": "library",
+    "sort_order": 37,
+    "description": "Team wikis and internal documentation hubs."
+  },
+  {
+    "name": "Project Management",
+    "slug": "project-management",
+    "group": "Software Development",
+    "icon": "kanban",
+    "sort_order": 27,
+    "description": "Backlogs, roadmaps and delivery tracking."
+  },
+  {
+    "name": "Issue Tracking",
+    "slug": "issue-tracking",
+    "group": "Software Development",
+    "icon": "ticket",
+    "sort_order": 28,
+    "description": "Bugs, tickets and engineering work items."
+  },
+  {
+    "name": "Time Tracking",
+    "slug": "time-tracking",
+    "group": "Research & Knowledge",
+    "icon": "timer",
+    "sort_order": 38,
+    "description": "Track time on projects and deep work."
+  },
+  {
+    "name": "Team Communication",
+    "slug": "team-communication",
+    "group": "Design & Content",
+    "icon": "chat",
+    "sort_order": 57,
+    "description": "Chat and async communication for software teams."
+  },
+  {
+    "name": "Password & Secrets",
+    "slug": "password-secrets",
+    "group": "Software Development",
+    "icon": "key",
+    "sort_order": 29,
+    "description": "Password managers and secrets vaults."
+  },
+  {
+    "name": "Monitoring & Observability",
+    "slug": "monitoring-observability",
+    "group": "Software Development",
+    "icon": "pulse",
+    "sort_order": 30,
+    "description": "Metrics, logs, traces and uptime."
+  },
+  {
+    "name": "CI/CD",
+    "slug": "ci-cd",
+    "group": "Software Development",
+    "icon": "pipeline",
+    "sort_order": 31,
+    "description": "Continuous integration and delivery pipelines."
+  },
+  {
+    "name": "Containers",
+    "slug": "containers",
+    "group": "Software Development",
+    "icon": "box",
+    "sort_order": 32,
+    "description": "Docker, Kubernetes and container tooling."
+  },
+  {
+    "name": "Data Engineering",
+    "slug": "data-engineering",
+    "group": "Software Development",
+    "icon": "database",
+    "sort_order": 33,
+    "description": "ETL, pipelines and data platforms."
+  },
+  {
+    "name": "Machine Learning",
+    "slug": "machine-learning",
+    "group": "AI Engineering",
+    "icon": "chart",
+    "sort_order": 68,
+    "description": "Train, track and serve ML models."
+  },
+  {
+    "name": "Mobile Development",
+    "slug": "mobile-development",
+    "group": "Software Development",
+    "icon": "phone",
+    "sort_order": 34,
+    "description": "iOS, Android and cross-platform tooling."
+  },
+  {
+    "name": "Auth & Identity",
+    "slug": "auth-identity",
+    "group": "Software Development",
+    "icon": "lock",
+    "sort_order": 35,
+    "description": "Authentication, SSO and identity platforms."
+  },
+  {
+    "name": "Feature Flags",
+    "slug": "feature-flags",
+    "group": "Software Development",
+    "icon": "toggle",
+    "sort_order": 36,
+    "description": "Progressive delivery and feature toggles."
+  },
+  {
+    "name": "Error Tracking",
+    "slug": "error-tracking",
+    "group": "Software Development",
+    "icon": "alert",
+    "sort_order": 37,
+    "description": "Crash reporting and exception monitoring."
+  },
+  {
+    "name": "Analytics",
+    "slug": "analytics",
+    "group": "Software Development",
+    "icon": "chart",
+    "sort_order": 38,
+    "description": "Product analytics and usage insights."
+  },
+  {
+    "name": "Headless CMS",
+    "slug": "headless-cms",
+    "group": "Design & Content",
+    "icon": "pages",
+    "sort_order": 58,
+    "description": "API-first content platforms."
+  },
+  {
+    "name": "Cloud Hosting",
+    "slug": "cloud-hosting",
+    "group": "Software Development",
+    "icon": "cloud",
+    "sort_order": 39,
+    "description": "App hosting and cloud platforms."
+  },
+  {
+    "name": "Terminal & CLI",
+    "slug": "terminal-cli",
+    "group": "Software Development",
+    "icon": "terminal",
+    "sort_order": 40,
+    "description": "Terminals, shells and CLI productivity."
+  },
+  {
+    "name": "File Storage",
+    "slug": "file-storage",
+    "group": "Software Development",
+    "icon": "folder",
+    "sort_order": 41,
+    "description": "Object storage and file sync for developers."
+  },
+  {
+    "name": "Browser DevTools",
+    "slug": "browser-devtools",
+    "group": "Software Development",
+    "icon": "browser",
+    "sort_order": 42,
+    "description": "Browser tools for front-end developers."
+  },
+  {
+    "name": "Low-Code",
+    "slug": "low-code",
+    "group": "Software Development",
+    "icon": "blocks",
+    "sort_order": 43,
+    "description": "Low-code builders useful to software teams."
+  },
+  {
+    "name": "API Gateway",
+    "slug": "api-gateway",
+    "group": "Software Development",
+    "icon": "gateway",
+    "sort_order": 44,
+    "description": "Gateways, proxies and API management."
   }
 ]

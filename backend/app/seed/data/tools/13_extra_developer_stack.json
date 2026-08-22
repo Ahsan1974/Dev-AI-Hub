@@ -1,0 +1,4285 @@
+[
+  {
+    "name": "SwaggerHub",
+    "tagline": "API design and documentation platform",
+    "description": "SwaggerHub helps software developers with api design and documentation platform.",
+    "long_description": "SwaggerHub is used by developers and engineering teams for api design and documentation platform. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://swagger.io/tools/swaggerhub/",
+    "pricing_url": null,
+    "docs_url": "https://swagger.io/tools/swaggerhub/",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "api-development",
+      "documentation"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "API design and documentation platform",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "SwaggerHub: Time-limited trial available for evaluation.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Stoplight Studio",
+    "tagline": "Visual OpenAPI design",
+    "description": "Stoplight Studio helps software developers with visual openapi design.",
+    "long_description": "Stoplight Studio is used by developers and engineering teams for visual openapi design. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://stoplight.io",
+    "pricing_url": null,
+    "docs_url": "https://stoplight.io",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "api-development",
+      "documentation"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Visual OpenAPI design",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Stoplight Studio: Free tier available with limits on usage, seats, projects or advanced features.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Firecamp",
+    "tagline": "Open source API platform",
+    "description": "Firecamp helps software developers with open source api platform.",
+    "long_description": "Firecamp is used by developers and engineering teams for open source api platform. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://firecamp.io",
+    "pricing_url": null,
+    "docs_url": "https://firecamp.io",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "api-development"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Open source API platform",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Firecamp: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Restfox",
+    "tagline": "Offline-first web API client",
+    "description": "Restfox helps software developers with offline-first web api client.",
+    "long_description": "Restfox is used by developers and engineering teams for offline-first web api client. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://restfox.dev",
+    "pricing_url": null,
+    "docs_url": "https://restfox.dev",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "api-development"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Offline-first web API client",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Restfox: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Yaak",
+    "tagline": "Desktop API client",
+    "description": "Yaak helps software developers with desktop api client.",
+    "long_description": "Yaak is used by developers and engineering teams for desktop api client. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://yaak.app",
+    "pricing_url": null,
+    "docs_url": "https://yaak.app",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "api-development"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Desktop API client",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Yaak: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Kreya",
+    "tagline": "gRPC and REST GUI client",
+    "description": "Kreya helps software developers with grpc and rest gui client.",
+    "long_description": "Kreya is used by developers and engineering teams for grpc and rest gui client. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://kreya.app",
+    "pricing_url": null,
+    "docs_url": "https://kreya.app",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "api-development"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "gRPC and REST GUI client",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Kreya: Free tier available with limits on usage, seats, projects or advanced features.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "BloomRPC",
+    "tagline": "GUI client for gRPC",
+    "description": "BloomRPC helps software developers with gui client for grpc.",
+    "long_description": "BloomRPC is used by developers and engineering teams for gui client for grpc. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://github.com/bloomrpc/bloomrpc",
+    "pricing_url": null,
+    "docs_url": "https://github.com/bloomrpc/bloomrpc",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "api-development"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "GUI client for gRPC",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "BloomRPC: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "grpcui",
+    "tagline": "Web UI for gRPC services",
+    "description": "grpcui helps software developers with web ui for grpc services.",
+    "long_description": "grpcui is used by developers and engineering teams for web ui for grpc services. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://github.com/fullstorydev/grpcui",
+    "pricing_url": null,
+    "docs_url": "https://github.com/fullstorydev/grpcui",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "api-development",
+      "terminal-cli"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Web UI for gRPC services",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "grpcui: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "grpcurl",
+    "tagline": "curl for gRPC",
+    "description": "grpcurl helps software developers with curl for grpc.",
+    "long_description": "grpcurl is used by developers and engineering teams for curl for grpc. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://github.com/fullstorydev/grpcurl",
+    "pricing_url": null,
+    "docs_url": "https://github.com/fullstorydev/grpcurl",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "api-development",
+      "terminal-cli"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "curl for gRPC",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "grpcurl: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Evans gRPC",
+    "tagline": "Interactive gRPC client",
+    "description": "Evans gRPC helps software developers with interactive grpc client.",
+    "long_description": "Evans gRPC is used by developers and engineering teams for interactive grpc client. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://github.com/ktr0731/evans",
+    "pricing_url": null,
+    "docs_url": "https://github.com/ktr0731/evans",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "api-development",
+      "terminal-cli"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Interactive gRPC client",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Evans gRPC: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Proxyman",
+    "tagline": "Modern HTTP debugging proxy",
+    "description": "Proxyman helps software developers with modern http debugging proxy.",
+    "long_description": "Proxyman is used by developers and engineering teams for modern http debugging proxy. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://proxyman.com",
+    "pricing_url": null,
+    "docs_url": "https://proxyman.com",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "browser-devtools",
+      "api-development"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Modern HTTP debugging proxy",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Proxyman: Time-limited trial available for evaluation.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Charles Proxy",
+    "tagline": "HTTP proxy and monitor",
+    "description": "Charles Proxy helps software developers with http proxy and monitor.",
+    "long_description": "Charles Proxy is used by developers and engineering teams for http proxy and monitor. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.charlesproxy.com",
+    "pricing_url": null,
+    "docs_url": "https://www.charlesproxy.com",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "browser-devtools",
+      "api-development"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "HTTP proxy and monitor",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Charles Proxy: Time-limited trial available for evaluation.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "mitmproxy",
+    "tagline": "Interactive HTTPS proxy",
+    "description": "mitmproxy helps software developers with interactive https proxy.",
+    "long_description": "mitmproxy is used by developers and engineering teams for interactive https proxy. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://mitmproxy.org",
+    "pricing_url": null,
+    "docs_url": "https://mitmproxy.org",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "browser-devtools",
+      "api-development",
+      "security"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Interactive HTTPS proxy",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "mitmproxy: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Fiddler Classic",
+    "tagline": "Web debugging proxy",
+    "description": "Fiddler Classic helps software developers with web debugging proxy.",
+    "long_description": "Fiddler Classic is used by developers and engineering teams for web debugging proxy. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.telerik.com/fiddler",
+    "pricing_url": null,
+    "docs_url": "https://www.telerik.com/fiddler",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "browser-devtools",
+      "api-development"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Web debugging proxy",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Fiddler Classic: Free tier available with limits on usage, seats, projects or advanced features.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Whistle Proxy",
+    "tagline": "Cross-platform web debugging proxy",
+    "description": "Whistle Proxy helps software developers with cross-platform web debugging proxy.",
+    "long_description": "Whistle Proxy is used by developers and engineering teams for cross-platform web debugging proxy. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://wproxy.org",
+    "pricing_url": null,
+    "docs_url": "https://wproxy.org",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "browser-devtools"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Cross-platform web debugging proxy",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Whistle Proxy: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Mockoon",
+    "tagline": "Local API mocking",
+    "description": "Mockoon helps software developers with local api mocking.",
+    "long_description": "Mockoon is used by developers and engineering teams for local api mocking. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://mockoon.com",
+    "pricing_url": null,
+    "docs_url": "https://mockoon.com",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "api-development",
+      "testing"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Local API mocking",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Mockoon: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "WireMock",
+    "tagline": "API mock server",
+    "description": "WireMock helps software developers with api mock server.",
+    "long_description": "WireMock is used by developers and engineering teams for api mock server. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://wiremock.org",
+    "pricing_url": null,
+    "docs_url": "https://wiremock.org",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "api-development",
+      "testing"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "API mock server",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "WireMock: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Mock Service Worker",
+    "tagline": "API mocking for browsers and Node",
+    "description": "Mock Service Worker helps software developers with api mocking for browsers and node.",
+    "long_description": "Mock Service Worker is used by developers and engineering teams for api mocking for browsers and node. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://mswjs.io",
+    "pricing_url": null,
+    "docs_url": "https://mswjs.io",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "api-development",
+      "testing"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "API mocking for browsers and Node",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Mock Service Worker: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "JSON Server",
+    "tagline": "Fake REST API from JSON",
+    "description": "JSON Server helps software developers with fake rest api from json.",
+    "long_description": "JSON Server is used by developers and engineering teams for fake rest api from json. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://github.com/typicode/json-server",
+    "pricing_url": null,
+    "docs_url": "https://github.com/typicode/json-server",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "api-development",
+      "testing"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Fake REST API from JSON",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "JSON Server: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Prism Mock Server",
+    "tagline": "OpenAPI-driven mock server",
+    "description": "Prism Mock Server helps software developers with openapi-driven mock server.",
+    "long_description": "Prism Mock Server is used by developers and engineering teams for openapi-driven mock server. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://stoplight.io/open-source/prism",
+    "pricing_url": null,
+    "docs_url": "https://stoplight.io/open-source/prism",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "api-development",
+      "testing"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "OpenAPI-driven mock server",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Prism Mock Server: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Fern API",
+    "tagline": "Generate SDKs and docs from API defs",
+    "description": "Fern API helps software developers with generate sdks and docs from api defs.",
+    "long_description": "Fern API is used by developers and engineering teams for generate sdks and docs from api defs. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://buildwithfern.com",
+    "pricing_url": null,
+    "docs_url": "https://buildwithfern.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "api-development",
+      "documentation"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Generate SDKs and docs from API defs",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Fern API: Free tier available with limits on usage, seats, projects or advanced features.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Stainless SDK",
+    "tagline": "SDK generation from OpenAPI",
+    "description": "Stainless SDK helps software developers with sdk generation from openapi.",
+    "long_description": "Stainless SDK is used by developers and engineering teams for sdk generation from openapi. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.stainless.com",
+    "pricing_url": null,
+    "docs_url": "https://www.stainless.com",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "api-development"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "SDK generation from OpenAPI",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Stainless SDK: Time-limited trial available for evaluation.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "liblab",
+    "tagline": "Generate SDKs from APIs",
+    "description": "liblab helps software developers with generate sdks from apis.",
+    "long_description": "liblab is used by developers and engineering teams for generate sdks from apis. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://liblab.com",
+    "pricing_url": null,
+    "docs_url": "https://liblab.com",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "api-development"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Generate SDKs from APIs",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "liblab: Time-limited trial available for evaluation.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Swagger Codegen",
+    "tagline": "Generate API clients and servers",
+    "description": "Swagger Codegen helps software developers with generate api clients and servers.",
+    "long_description": "Swagger Codegen is used by developers and engineering teams for generate api clients and servers. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://swagger.io/tools/swagger-codegen/",
+    "pricing_url": null,
+    "docs_url": "https://swagger.io/tools/swagger-codegen/",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "api-development"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Generate API clients and servers",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Swagger Codegen: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Orval",
+    "tagline": "Generate TypeScript clients from OpenAPI",
+    "description": "Orval helps software developers with generate typescript clients from openapi.",
+    "long_description": "Orval is used by developers and engineering teams for generate typescript clients from openapi. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://orval.dev",
+    "pricing_url": null,
+    "docs_url": "https://orval.dev",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "api-development"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Generate TypeScript clients from OpenAPI",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Orval: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Kiota",
+    "tagline": "OpenAPI client generator from Microsoft",
+    "description": "Kiota helps software developers with openapi client generator from microsoft.",
+    "long_description": "Kiota is used by developers and engineering teams for openapi client generator from microsoft. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://learn.microsoft.com/openapi/kiota",
+    "pricing_url": null,
+    "docs_url": "https://learn.microsoft.com/openapi/kiota",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "api-development"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "OpenAPI client generator from Microsoft",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Kiota: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Hey API",
+    "tagline": "OpenAPI to TypeScript codegen",
+    "description": "Hey API helps software developers with openapi to typescript codegen.",
+    "long_description": "Hey API is used by developers and engineering teams for openapi to typescript codegen. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://heyapi.dev",
+    "pricing_url": null,
+    "docs_url": "https://heyapi.dev",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "api-development"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "OpenAPI to TypeScript codegen",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Hey API: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Jira Product Discovery",
+    "tagline": "Product idea prioritisation",
+    "description": "Jira Product Discovery helps software developers with product idea prioritisation.",
+    "long_description": "Jira Product Discovery is used by developers and engineering teams for product idea prioritisation. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.atlassian.com/software/jira/product-discovery",
+    "pricing_url": null,
+    "docs_url": "https://www.atlassian.com/software/jira/product-discovery",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "project-management"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Product idea prioritisation",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Jira Product Discovery: Free tier available with limits on usage, seats, projects or advanced features.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Jira Service Management",
+    "tagline": "ITSM and request management",
+    "description": "Jira Service Management helps software developers with itsm and request management.",
+    "long_description": "Jira Service Management is used by developers and engineering teams for itsm and request management. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.atlassian.com/software/jira/service-management",
+    "pricing_url": null,
+    "docs_url": "https://www.atlassian.com/software/jira/service-management",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "issue-tracking",
+      "project-management"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "ITSM and request management",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Jira Service Management: Free tier available with limits on usage, seats, projects or advanced features.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Incident.io",
+    "tagline": "Incident response platform",
+    "description": "Incident.io helps software developers with incident response platform.",
+    "long_description": "Incident.io is used by developers and engineering teams for incident response platform. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://incident.io",
+    "pricing_url": null,
+    "docs_url": "https://incident.io",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "monitoring-observability",
+      "team-communication"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Incident response platform",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Incident.io: Time-limited trial available for evaluation.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "FireHydrant",
+    "tagline": "Incident management",
+    "description": "FireHydrant helps software developers with incident management.",
+    "long_description": "FireHydrant is used by developers and engineering teams for incident management. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://firehydrant.com",
+    "pricing_url": null,
+    "docs_url": "https://firehydrant.com",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "monitoring-observability"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Incident management",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "FireHydrant: Time-limited trial available for evaluation.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Rootly",
+    "tagline": "AI-native incident management",
+    "description": "Rootly helps software developers with ai-native incident management.",
+    "long_description": "Rootly is used by developers and engineering teams for ai-native incident management. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://rootly.com",
+    "pricing_url": null,
+    "docs_url": "https://rootly.com",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "monitoring-observability"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "AI-native incident management",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Rootly: Time-limited trial available for evaluation.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Grafana OnCall",
+    "tagline": "Open source on-call management",
+    "description": "Grafana OnCall helps software developers with open source on-call management.",
+    "long_description": "Grafana OnCall is used by developers and engineering teams for open source on-call management. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://grafana.com/oss/oncall/",
+    "pricing_url": null,
+    "docs_url": "https://grafana.com/oss/oncall/",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "monitoring-observability"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Open source on-call management",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Grafana OnCall: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Keep HQ",
+    "tagline": "Open source AIOps alert management",
+    "description": "Keep HQ helps software developers with open source aiops alert management.",
+    "long_description": "Keep HQ is used by developers and engineering teams for open source aiops alert management. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.keephq.dev",
+    "pricing_url": null,
+    "docs_url": "https://www.keephq.dev",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "monitoring-observability"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Open source AIOps alert management",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Keep HQ: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Coralogix",
+    "tagline": "Stateful streaming observability",
+    "description": "Coralogix helps software developers with stateful streaming observability.",
+    "long_description": "Coralogix is used by developers and engineering teams for stateful streaming observability. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://coralogix.com",
+    "pricing_url": null,
+    "docs_url": "https://coralogix.com",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "monitoring-observability"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Stateful streaming observability",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Coralogix: Time-limited trial available for evaluation.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Logz.io",
+    "tagline": "Open source based observability platform",
+    "description": "Logz.io helps software developers with open source based observability platform.",
+    "long_description": "Logz.io is used by developers and engineering teams for open source based observability platform. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://logz.io",
+    "pricing_url": null,
+    "docs_url": "https://logz.io",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "monitoring-observability"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Open source based observability platform",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Logz.io: Time-limited trial available for evaluation.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Sumo Logic",
+    "tagline": "Cloud log analytics",
+    "description": "Sumo Logic helps software developers with cloud log analytics.",
+    "long_description": "Sumo Logic is used by developers and engineering teams for cloud log analytics. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.sumologic.com",
+    "pricing_url": null,
+    "docs_url": "https://www.sumologic.com",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "monitoring-observability"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Cloud log analytics",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Sumo Logic: Time-limited trial available for evaluation.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Splunk Cloud",
+    "tagline": "Search and observability platform",
+    "description": "Splunk Cloud helps software developers with search and observability platform.",
+    "long_description": "Splunk Cloud is used by developers and engineering teams for search and observability platform. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.splunk.com",
+    "pricing_url": null,
+    "docs_url": "https://www.splunk.com",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "monitoring-observability"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Search and observability platform",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Splunk Cloud: Time-limited trial available for evaluation.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Cribl",
+    "tagline": "Observability pipeline",
+    "description": "Cribl helps software developers with observability pipeline.",
+    "long_description": "Cribl is used by developers and engineering teams for observability pipeline. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://cribl.io",
+    "pricing_url": null,
+    "docs_url": "https://cribl.io",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "monitoring-observability",
+      "data-engineering"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Observability pipeline",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Cribl: Time-limited trial available for evaluation.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Vector.dev",
+    "tagline": "Observability data pipeline",
+    "description": "Vector.dev helps software developers with observability data pipeline.",
+    "long_description": "Vector.dev is used by developers and engineering teams for observability data pipeline. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://vector.dev",
+    "pricing_url": null,
+    "docs_url": "https://vector.dev",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "monitoring-observability",
+      "data-engineering"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Observability data pipeline",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Vector.dev: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Fluentd",
+    "tagline": "Unified logging layer",
+    "description": "Fluentd helps software developers with unified logging layer.",
+    "long_description": "Fluentd is used by developers and engineering teams for unified logging layer. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.fluentd.org",
+    "pricing_url": null,
+    "docs_url": "https://www.fluentd.org",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "monitoring-observability",
+      "data-engineering"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Unified logging layer",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Fluentd: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Fluent Bit",
+    "tagline": "Lightweight log processor and forwarder",
+    "description": "Fluent Bit helps software developers with lightweight log processor and forwarder.",
+    "long_description": "Fluent Bit is used by developers and engineering teams for lightweight log processor and forwarder. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://fluentbit.io",
+    "pricing_url": null,
+    "docs_url": "https://fluentbit.io",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "monitoring-observability"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Lightweight log processor and forwarder",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Fluent Bit: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Logstash",
+    "tagline": "Server-side data processing pipeline",
+    "description": "Logstash helps software developers with server-side data processing pipeline.",
+    "long_description": "Logstash is used by developers and engineering teams for server-side data processing pipeline. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.elastic.co/logstash",
+    "pricing_url": null,
+    "docs_url": "https://www.elastic.co/logstash",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "monitoring-observability"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Server-side data processing pipeline",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Logstash: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Graylog",
+    "tagline": "Log management platform",
+    "description": "Graylog helps software developers with log management platform.",
+    "long_description": "Graylog is used by developers and engineering teams for log management platform. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://graylog.org",
+    "pricing_url": null,
+    "docs_url": "https://graylog.org",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "monitoring-observability"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Log management platform",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Graylog: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Seq Logging",
+    "tagline": "Structured log server",
+    "description": "Seq Logging helps software developers with structured log server.",
+    "long_description": "Seq Logging is used by developers and engineering teams for structured log server. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://datalust.co/seq",
+    "pricing_url": null,
+    "docs_url": "https://datalust.co/seq",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "monitoring-observability"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Structured log server",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Seq Logging: Free tier available with limits on usage, seats, projects or advanced features.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Papertrail",
+    "tagline": "Cloud-hosted log management",
+    "description": "Papertrail helps software developers with cloud-hosted log management.",
+    "long_description": "Papertrail is used by developers and engineering teams for cloud-hosted log management. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.papertrail.com",
+    "pricing_url": null,
+    "docs_url": "https://www.papertrail.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "monitoring-observability"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Cloud-hosted log management",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Papertrail: Free tier available with limits on usage, seats, projects or advanced features.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Axiom",
+    "tagline": "Log analytics and event database",
+    "description": "Axiom helps software developers with log analytics and event database.",
+    "long_description": "Axiom is used by developers and engineering teams for log analytics and event database. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://axiom.co",
+    "pricing_url": null,
+    "docs_url": "https://axiom.co",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "monitoring-observability",
+      "analytics"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Log analytics and event database",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Axiom: Free tier available with limits on usage, seats, projects or advanced features.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Tinybird",
+    "tagline": "Realtime analytics on ClickHouse",
+    "description": "Tinybird helps software developers with realtime analytics on clickhouse.",
+    "long_description": "Tinybird is used by developers and engineering teams for realtime analytics on clickhouse. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.tinybird.co",
+    "pricing_url": null,
+    "docs_url": "https://www.tinybird.co",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": true,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "data-engineering",
+      "analytics"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Realtime analytics on ClickHouse",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Tinybird: Free tier available with limits on usage, seats, projects or advanced features.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Materialize",
+    "tagline": "Operational data warehouse",
+    "description": "Materialize helps software developers with operational data warehouse.",
+    "long_description": "Materialize is used by developers and engineering teams for operational data warehouse. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://materialize.com",
+    "pricing_url": null,
+    "docs_url": "https://materialize.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": true,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "data-engineering",
+      "database"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Operational data warehouse",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Materialize: Free tier available with limits on usage, seats, projects or advanced features.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "RisingWave",
+    "tagline": "Streaming database",
+    "description": "RisingWave helps software developers with streaming database.",
+    "long_description": "RisingWave is used by developers and engineering teams for streaming database. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://risingwave.com",
+    "pricing_url": null,
+    "docs_url": "https://risingwave.com",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "data-engineering"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Streaming database",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "RisingWave: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Apache Pinot",
+    "tagline": "Realtime distributed OLAP datastore",
+    "description": "Apache Pinot helps software developers with realtime distributed olap datastore.",
+    "long_description": "Apache Pinot is used by developers and engineering teams for realtime distributed olap datastore. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://pinot.apache.org",
+    "pricing_url": null,
+    "docs_url": "https://pinot.apache.org",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "data-engineering",
+      "database"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Realtime distributed OLAP datastore",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Apache Pinot: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Apache Druid",
+    "tagline": "Realtime analytics database",
+    "description": "Apache Druid helps software developers with realtime analytics database.",
+    "long_description": "Apache Druid is used by developers and engineering teams for realtime analytics database. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://druid.apache.org",
+    "pricing_url": null,
+    "docs_url": "https://druid.apache.org",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "data-engineering",
+      "database"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Realtime analytics database",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Apache Druid: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "StarRocks",
+    "tagline": "High-performance analytical database",
+    "description": "StarRocks helps software developers with high-performance analytical database.",
+    "long_description": "StarRocks is used by developers and engineering teams for high-performance analytical database. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.starrocks.io",
+    "pricing_url": null,
+    "docs_url": "https://www.starrocks.io",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "data-engineering",
+      "database"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "High-performance analytical database",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "StarRocks: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Trino",
+    "tagline": "Distributed SQL query engine",
+    "description": "Trino helps software developers with distributed sql query engine.",
+    "long_description": "Trino is used by developers and engineering teams for distributed sql query engine. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://trino.io",
+    "pricing_url": null,
+    "docs_url": "https://trino.io",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "data-engineering",
+      "database"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Distributed SQL query engine",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Trino: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "PrestoDB",
+    "tagline": "Distributed SQL query engine",
+    "description": "PrestoDB helps software developers with distributed sql query engine.",
+    "long_description": "PrestoDB is used by developers and engineering teams for distributed sql query engine. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://prestodb.io",
+    "pricing_url": null,
+    "docs_url": "https://prestodb.io",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "data-engineering"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Distributed SQL query engine",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "PrestoDB: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Apache Hive",
+    "tagline": "Data warehouse software",
+    "description": "Apache Hive helps software developers with data warehouse software.",
+    "long_description": "Apache Hive is used by developers and engineering teams for data warehouse software. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://hive.apache.org",
+    "pricing_url": null,
+    "docs_url": "https://hive.apache.org",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "data-engineering"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Data warehouse software",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Apache Hive: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Apache Iceberg",
+    "tagline": "Open table format for huge analytic datasets",
+    "description": "Apache Iceberg helps software developers with open table format for huge analytic datasets.",
+    "long_description": "Apache Iceberg is used by developers and engineering teams for open table format for huge analytic datasets. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://iceberg.apache.org",
+    "pricing_url": null,
+    "docs_url": "https://iceberg.apache.org",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "data-engineering"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Open table format for huge analytic datasets",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Apache Iceberg: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Delta Lake",
+    "tagline": "Open storage layer for lakehouses",
+    "description": "Delta Lake helps software developers with open storage layer for lakehouses.",
+    "long_description": "Delta Lake is used by developers and engineering teams for open storage layer for lakehouses. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://delta.io",
+    "pricing_url": null,
+    "docs_url": "https://delta.io",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "data-engineering"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Open storage layer for lakehouses",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Delta Lake: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Apache Hudi",
+    "tagline": "Incremental data processing framework",
+    "description": "Apache Hudi helps software developers with incremental data processing framework.",
+    "long_description": "Apache Hudi is used by developers and engineering teams for incremental data processing framework. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://hudi.apache.org",
+    "pricing_url": null,
+    "docs_url": "https://hudi.apache.org",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "data-engineering"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Incremental data processing framework",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Apache Hudi: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "dbt Cloud",
+    "tagline": "Hosted analytics engineering",
+    "description": "dbt Cloud helps software developers with hosted analytics engineering.",
+    "long_description": "dbt Cloud is used by developers and engineering teams for hosted analytics engineering. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.getdbt.com/product/dbt-cloud",
+    "pricing_url": null,
+    "docs_url": "https://www.getdbt.com/product/dbt-cloud",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "data-engineering"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Hosted analytics engineering",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "dbt Cloud: Free tier available with limits on usage, seats, projects or advanced features.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Elementary Data",
+    "tagline": "Data observability for dbt",
+    "description": "Elementary Data helps software developers with data observability for dbt.",
+    "long_description": "Elementary Data is used by developers and engineering teams for data observability for dbt. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.elementary-data.com",
+    "pricing_url": null,
+    "docs_url": "https://www.elementary-data.com",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "data-engineering",
+      "testing"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Data observability for dbt",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Elementary Data: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Datafold",
+    "tagline": "Data diff and CI for warehouses",
+    "description": "Datafold helps software developers with data diff and ci for warehouses.",
+    "long_description": "Datafold is used by developers and engineering teams for data diff and ci for warehouses. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.datafold.com",
+    "pricing_url": null,
+    "docs_url": "https://www.datafold.com",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "data-engineering",
+      "testing"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Data diff and CI for warehouses",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Datafold: Time-limited trial available for evaluation.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Metaplane",
+    "tagline": "Data observability",
+    "description": "Metaplane helps software developers with data observability.",
+    "long_description": "Metaplane is used by developers and engineering teams for data observability. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.metaplane.dev",
+    "pricing_url": null,
+    "docs_url": "https://www.metaplane.dev",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "data-engineering"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Data observability",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Metaplane: Time-limited trial available for evaluation.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Bigeye",
+    "tagline": "Data quality monitoring",
+    "description": "Bigeye helps software developers with data quality monitoring.",
+    "long_description": "Bigeye is used by developers and engineering teams for data quality monitoring. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.bigeye.com",
+    "pricing_url": null,
+    "docs_url": "https://www.bigeye.com",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "data-engineering"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Data quality monitoring",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Bigeye: Time-limited trial available for evaluation.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Anomalo",
+    "tagline": "Automated data quality",
+    "description": "Anomalo helps software developers with automated data quality.",
+    "long_description": "Anomalo is used by developers and engineering teams for automated data quality. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.anomalo.com",
+    "pricing_url": null,
+    "docs_url": "https://www.anomalo.com",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "data-engineering"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Automated data quality",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Anomalo: Time-limited trial available for evaluation.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Google Cloud Run",
+    "tagline": "Serverless containers on GCP",
+    "description": "Google Cloud Run helps software developers with serverless containers on gcp.",
+    "long_description": "Google Cloud Run is used by developers and engineering teams for serverless containers on gcp. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://cloud.google.com/run",
+    "pricing_url": null,
+    "docs_url": "https://cloud.google.com/run",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": true,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "cloud-hosting",
+      "containers"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Serverless containers on GCP",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Google Cloud Run: Free tier available with limits on usage, seats, projects or advanced features.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Port Internal Developer Portal",
+    "tagline": "Internal developer portal",
+    "description": "Port Internal Developer Portal helps software developers with internal developer portal.",
+    "long_description": "Port Internal Developer Portal is used by developers and engineering teams for internal developer portal. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.getport.io",
+    "pricing_url": null,
+    "docs_url": "https://www.getport.io",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "developer-productivity",
+      "knowledge-base"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Internal developer portal",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Port Internal Developer Portal: Time-limited trial available for evaluation.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Cortex IDP",
+    "tagline": "Internal developer portal",
+    "description": "Cortex IDP helps software developers with internal developer portal.",
+    "long_description": "Cortex IDP is used by developers and engineering teams for internal developer portal. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.cortex.io",
+    "pricing_url": null,
+    "docs_url": "https://www.cortex.io",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "developer-productivity"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Internal developer portal",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Cortex IDP: Time-limited trial available for evaluation.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  }
+]

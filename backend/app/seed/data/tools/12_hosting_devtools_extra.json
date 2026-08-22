@@ -1,0 +1,3455 @@
+[
+  {
+    "name": "Backstage",
+    "tagline": "Developer portal framework",
+    "description": "Backstage helps software developers with developer portal framework.",
+    "long_description": "Backstage is used by developers and engineering teams for developer portal framework. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://backstage.io",
+    "pricing_url": null,
+    "docs_url": "https://backstage.io",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "developer-productivity",
+      "documentation",
+      "knowledge-base"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Developer portal framework",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Backstage: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Port.io",
+    "tagline": "Internal developer portal",
+    "description": "Port.io helps software developers with internal developer portal.",
+    "long_description": "Port.io is used by developers and engineering teams for internal developer portal. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.port.io",
+    "pricing_url": null,
+    "docs_url": "https://www.port.io",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "developer-productivity",
+      "knowledge-base"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Internal developer portal",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Port.io: Time-limited trial available for evaluation.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "OpsLevel",
+    "tagline": "Service catalogue and standards",
+    "description": "OpsLevel helps software developers with service catalogue and standards.",
+    "long_description": "OpsLevel is used by developers and engineering teams for service catalogue and standards. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.opslevel.com",
+    "pricing_url": null,
+    "docs_url": "https://www.opslevel.com",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "developer-productivity"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Service catalogue and standards",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "OpsLevel: Time-limited trial available for evaluation.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Cortex",
+    "tagline": "Internal developer portal",
+    "description": "Cortex helps software developers with internal developer portal.",
+    "long_description": "Cortex is used by developers and engineering teams for internal developer portal. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.cortex.io",
+    "pricing_url": null,
+    "docs_url": "https://www.cortex.io",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "developer-productivity"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Internal developer portal",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Cortex: Time-limited trial available for evaluation.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Humanitec",
+    "tagline": "Internal developer platform",
+    "description": "Humanitec helps software developers with internal developer platform.",
+    "long_description": "Humanitec is used by developers and engineering teams for internal developer platform. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://humanitec.com",
+    "pricing_url": null,
+    "docs_url": "https://humanitec.com",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "devops",
+      "cloud-hosting"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Internal developer platform",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Humanitec: Time-limited trial available for evaluation.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Crossplane Console",
+    "tagline": "Control planes for platforms",
+    "description": "Crossplane Console helps software developers with control planes for platforms.",
+    "long_description": "Crossplane Console is used by developers and engineering teams for control planes for platforms. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.upbound.io",
+    "pricing_url": null,
+    "docs_url": "https://www.upbound.io",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "devops",
+      "cloud-hosting"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Control planes for platforms",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Crossplane Console: Time-limited trial available for evaluation.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "mdBook",
+    "tagline": "Create books with Markdown",
+    "description": "mdBook helps software developers with create books with markdown.",
+    "long_description": "mdBook is used by developers and engineering teams for create books with markdown. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://rust-lang.github.io/mdBook/",
+    "pricing_url": null,
+    "docs_url": "https://rust-lang.github.io/mdBook/",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "documentation"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Create books with Markdown",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "mdBook: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Sphinx Docs",
+    "tagline": "Python documentation generator",
+    "description": "Sphinx Docs helps software developers with python documentation generator.",
+    "long_description": "Sphinx Docs is used by developers and engineering teams for python documentation generator. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.sphinx-doc.org",
+    "pricing_url": null,
+    "docs_url": "https://www.sphinx-doc.org",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "documentation"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Python documentation generator",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Sphinx Docs: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Javadoc",
+    "tagline": "Java API documentation tool",
+    "description": "Javadoc helps software developers with java api documentation tool.",
+    "long_description": "Javadoc is used by developers and engineering teams for java api documentation tool. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.oracle.com/java/technologies/javase/javadoc-tool.html",
+    "pricing_url": null,
+    "docs_url": "https://www.oracle.com/java/technologies/javase/javadoc-tool.html",
+    "pricing_status": "FREE_FOREVER",
+    "free_access_summary": "Free plan or free product available for ongoing core usage.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "documentation"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Java API documentation tool",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Javadoc: Free plan or free product available for ongoing core usage.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "TypeDoc",
+    "tagline": "TypeScript documentation generator",
+    "description": "TypeDoc helps software developers with typescript documentation generator.",
+    "long_description": "TypeDoc is used by developers and engineering teams for typescript documentation generator. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://typedoc.org",
+    "pricing_url": null,
+    "docs_url": "https://typedoc.org",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "documentation"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "TypeScript documentation generator",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "TypeDoc: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Compodoc",
+    "tagline": "Documentation for Angular",
+    "description": "Compodoc helps software developers with documentation for angular.",
+    "long_description": "Compodoc is used by developers and engineering teams for documentation for angular. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://compodoc.app",
+    "pricing_url": null,
+    "docs_url": "https://compodoc.app",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "documentation"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Documentation for Angular",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Compodoc: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Histoire",
+    "tagline": "Vite-based Storybook alternative",
+    "description": "Histoire helps software developers with vite-based storybook alternative.",
+    "long_description": "Histoire is used by developers and engineering teams for vite-based storybook alternative. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://histoire.dev",
+    "pricing_url": null,
+    "docs_url": "https://histoire.dev",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "ui-ux",
+      "documentation"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Vite-based Storybook alternative",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Histoire: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Ladle",
+    "tagline": "Fast Storybook alternative",
+    "description": "Ladle helps software developers with fast storybook alternative.",
+    "long_description": "Ladle is used by developers and engineering teams for fast storybook alternative. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://ladle.dev",
+    "pricing_url": null,
+    "docs_url": "https://ladle.dev",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "ui-ux",
+      "documentation"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Fast Storybook alternative",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Ladle: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Applitools",
+    "tagline": "Visual AI testing platform",
+    "description": "Applitools helps software developers with visual ai testing platform.",
+    "long_description": "Applitools is used by developers and engineering teams for visual ai testing platform. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://applitools.com",
+    "pricing_url": null,
+    "docs_url": "https://applitools.com",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "testing",
+      "ui-ux"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Visual AI testing platform",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Applitools: Time-limited trial available for evaluation.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Lost Pixel",
+    "tagline": "Open source visual regression",
+    "description": "Lost Pixel helps software developers with open source visual regression.",
+    "long_description": "Lost Pixel is used by developers and engineering teams for open source visual regression. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://lost-pixel.com",
+    "pricing_url": null,
+    "docs_url": "https://lost-pixel.com",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "testing",
+      "ui-ux"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Open source visual regression",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Lost Pixel: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Playwright Component Testing",
+    "tagline": "Component tests with Playwright",
+    "description": "Playwright Component Testing helps software developers with component tests with playwright.",
+    "long_description": "Playwright Component Testing is used by developers and engineering teams for component tests with playwright. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://playwright.dev/docs/test-components",
+    "pricing_url": null,
+    "docs_url": "https://playwright.dev/docs/test-components",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "testing",
+      "ui-ux"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Component tests with Playwright",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Playwright Component Testing: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Alfred",
+    "tagline": "macOS productivity app",
+    "description": "Alfred helps software developers with macos productivity app.",
+    "long_description": "Alfred is used by developers and engineering teams for macos productivity app. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.alfredapp.com",
+    "pricing_url": null,
+    "docs_url": "https://www.alfredapp.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "developer-productivity",
+      "productivity"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "macOS productivity app",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Alfred: Free tier available with limits on usage, seats, projects or advanced features.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Spotlight Alternatives Listary",
+    "tagline": "Windows file search launcher",
+    "description": "Spotlight Alternatives Listary helps software developers with windows file search launcher.",
+    "long_description": "Spotlight Alternatives Listary is used by developers and engineering teams for windows file search launcher. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.listary.com",
+    "pricing_url": null,
+    "docs_url": "https://www.listary.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "developer-productivity"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Windows file search launcher",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Spotlight Alternatives Listary: Free tier available with limits on usage, seats, projects or advanced features.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "PowerToys",
+    "tagline": "Windows power user utilities",
+    "description": "PowerToys helps software developers with windows power user utilities.",
+    "long_description": "PowerToys is used by developers and engineering teams for windows power user utilities. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://learn.microsoft.com/windows/powertoys/",
+    "pricing_url": null,
+    "docs_url": "https://learn.microsoft.com/windows/powertoys/",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "developer-productivity"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Windows power user utilities",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "PowerToys: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "AutoHotkey",
+    "tagline": "Windows automation scripting",
+    "description": "AutoHotkey helps software developers with windows automation scripting.",
+    "long_description": "AutoHotkey is used by developers and engineering teams for windows automation scripting. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.autohotkey.com",
+    "pricing_url": null,
+    "docs_url": "https://www.autohotkey.com",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "developer-productivity"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Windows automation scripting",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "AutoHotkey: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Hammerspoon",
+    "tagline": "macOS automation via Lua",
+    "description": "Hammerspoon helps software developers with macos automation via lua.",
+    "long_description": "Hammerspoon is used by developers and engineering teams for macos automation via lua. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.hammerspoon.org",
+    "pricing_url": null,
+    "docs_url": "https://www.hammerspoon.org",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "developer-productivity"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "macOS automation via Lua",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Hammerspoon: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Karabiner-Elements",
+    "tagline": "macOS keyboard customiser",
+    "description": "Karabiner-Elements helps software developers with macos keyboard customiser.",
+    "long_description": "Karabiner-Elements is used by developers and engineering teams for macos keyboard customiser. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://karabiner-elements.pqrs.org",
+    "pricing_url": null,
+    "docs_url": "https://karabiner-elements.pqrs.org",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "developer-productivity"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "macOS keyboard customiser",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Karabiner-Elements: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Rectangle",
+    "tagline": "Window management for macOS",
+    "description": "Rectangle helps software developers with window management for macos.",
+    "long_description": "Rectangle is used by developers and engineering teams for window management for macos. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://rectangleapp.com",
+    "pricing_url": null,
+    "docs_url": "https://rectangleapp.com",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "developer-productivity"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Window management for macOS",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Rectangle: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "AltTab",
+    "tagline": "Windows-like app switcher on macOS",
+    "description": "AltTab helps software developers with windows-like app switcher on macos.",
+    "long_description": "AltTab is used by developers and engineering teams for windows-like app switcher on macos. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://alt-tab-macos.netlify.app",
+    "pricing_url": null,
+    "docs_url": "https://alt-tab-macos.netlify.app",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "developer-productivity"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Windows-like app switcher on macOS",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "AltTab: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "CleanShot X",
+    "tagline": "Screenshot and recording toolkit",
+    "description": "CleanShot X helps software developers with screenshot and recording toolkit.",
+    "long_description": "CleanShot X is used by developers and engineering teams for screenshot and recording toolkit. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://cleanshot.com",
+    "pricing_url": null,
+    "docs_url": "https://cleanshot.com",
+    "pricing_status": "PAID_ONLY",
+    "free_access_summary": "Paid product; check the provider pricing page for current plans.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "developer-productivity"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Screenshot and recording toolkit",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "UNKNOWN",
+        "description": "CleanShot X: Paid product; check the provider pricing page for current plans.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "ShareX",
+    "tagline": "Screen capture and sharing",
+    "description": "ShareX helps software developers with screen capture and sharing.",
+    "long_description": "ShareX is used by developers and engineering teams for screen capture and sharing. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://getsharex.com",
+    "pricing_url": null,
+    "docs_url": "https://getsharex.com",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "developer-productivity"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Screen capture and sharing",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "ShareX: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Flameshot",
+    "tagline": "Powerful screenshot software",
+    "description": "Flameshot helps software developers with powerful screenshot software.",
+    "long_description": "Flameshot is used by developers and engineering teams for powerful screenshot software. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://flameshot.org",
+    "pricing_url": null,
+    "docs_url": "https://flameshot.org",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "developer-productivity"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Powerful screenshot software",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Flameshot: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Grain",
+    "tagline": "Meeting recording and insights",
+    "description": "Grain helps software developers with meeting recording and insights.",
+    "long_description": "Grain is used by developers and engineering teams for meeting recording and insights. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://grain.com",
+    "pricing_url": null,
+    "docs_url": "https://grain.com",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "team-communication",
+      "productivity"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Meeting recording and insights",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Grain: Time-limited trial available for evaluation.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Fireflies.ai",
+    "tagline": "AI meeting notes",
+    "description": "Fireflies.ai helps software developers with ai meeting notes.",
+    "long_description": "Fireflies.ai is used by developers and engineering teams for ai meeting notes. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://fireflies.ai",
+    "pricing_url": null,
+    "docs_url": "https://fireflies.ai",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "team-communication",
+      "audio"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "AI meeting notes",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Fireflies.ai: Free tier available with limits on usage, seats, projects or advanced features.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "tl;dv",
+    "tagline": "Meeting recorder for Zoom and Meet",
+    "description": "tl;dv helps software developers with meeting recorder for zoom and meet.",
+    "long_description": "tl;dv is used by developers and engineering teams for meeting recorder for zoom and meet. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://tldv.io",
+    "pricing_url": null,
+    "docs_url": "https://tldv.io",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "team-communication",
+      "video-editing"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Meeting recorder for Zoom and Meet",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "tl;dv: Free tier available with limits on usage, seats, projects or advanced features.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Fathom Video",
+    "tagline": "Free AI meeting assistant",
+    "description": "Fathom Video helps software developers with free ai meeting assistant.",
+    "long_description": "Fathom Video is used by developers and engineering teams for free ai meeting assistant. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://fathom.video",
+    "pricing_url": null,
+    "docs_url": "https://fathom.video",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "team-communication"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Free AI meeting assistant",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Fathom Video: Free tier available with limits on usage, seats, projects or advanced features.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Krisp",
+    "tagline": "Noise-cancelling for calls",
+    "description": "Krisp helps software developers with noise-cancelling for calls.",
+    "long_description": "Krisp is used by developers and engineering teams for noise-cancelling for calls. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://krisp.ai",
+    "pricing_url": null,
+    "docs_url": "https://krisp.ai",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "audio",
+      "team-communication"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Noise-cancelling for calls",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Krisp: Free tier available with limits on usage, seats, projects or advanced features.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Rowy",
+    "tagline": "Airtable-like for Firestore",
+    "description": "Rowy helps software developers with airtable-like for firestore.",
+    "long_description": "Rowy is used by developers and engineering teams for airtable-like for firestore. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.rowy.io",
+    "pricing_url": null,
+    "docs_url": "https://www.rowy.io",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "database",
+      "low-code"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Airtable-like for Firestore",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Rowy: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Teable",
+    "tagline": "Database-spreadsheet hybrid",
+    "description": "Teable helps software developers with database-spreadsheet hybrid.",
+    "long_description": "Teable is used by developers and engineering teams for database-spreadsheet hybrid. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://teable.io",
+    "pricing_url": null,
+    "docs_url": "https://teable.io",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "database",
+      "spreadsheets"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Database-spreadsheet hybrid",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Teable: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Gravitee",
+    "tagline": "API management platform",
+    "description": "Gravitee helps software developers with api management platform.",
+    "long_description": "Gravitee is used by developers and engineering teams for api management platform. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.gravitee.io",
+    "pricing_url": null,
+    "docs_url": "https://www.gravitee.io",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "api-gateway"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "API management platform",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Gravitee: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "WSO2 API Manager",
+    "tagline": "Open source API management",
+    "description": "WSO2 API Manager helps software developers with open source api management.",
+    "long_description": "WSO2 API Manager is used by developers and engineering teams for open source api management. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://wso2.com/api-manager/",
+    "pricing_url": null,
+    "docs_url": "https://wso2.com/api-manager/",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "api-gateway"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Open source API management",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "WSO2 API Manager: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Express Gateway",
+    "tagline": "API gateway on Express.js",
+    "description": "Express Gateway helps software developers with api gateway on express.js.",
+    "long_description": "Express Gateway is used by developers and engineering teams for api gateway on express.js. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.express-gateway.io",
+    "pricing_url": null,
+    "docs_url": "https://www.express-gateway.io",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "api-gateway"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "API gateway on Express.js",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Express Gateway: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Ocelot",
+    "tagline": ".NET API gateway",
+    "description": "Ocelot helps software developers with .net api gateway.",
+    "long_description": "Ocelot is used by developers and engineering teams for .net api gateway. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://ocelot.readthedocs.io",
+    "pricing_url": null,
+    "docs_url": "https://ocelot.readthedocs.io",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "api-gateway"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      ".NET API gateway",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Ocelot: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "YARP",
+    "tagline": "Yet Another Reverse Proxy from Microsoft",
+    "description": "YARP helps software developers with yet another reverse proxy from microsoft.",
+    "long_description": "YARP is used by developers and engineering teams for yet another reverse proxy from microsoft. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://microsoft.github.io/reverse-proxy/",
+    "pricing_url": null,
+    "docs_url": "https://microsoft.github.io/reverse-proxy/",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "api-gateway"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Yet Another Reverse Proxy from Microsoft",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "YARP: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Centrifugo",
+    "tagline": "Real-time messaging server",
+    "description": "Centrifugo helps software developers with real-time messaging server.",
+    "long_description": "Centrifugo is used by developers and engineering teams for real-time messaging server. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://centrifugal.dev",
+    "pricing_url": null,
+    "docs_url": "https://centrifugal.dev",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "api-development",
+      "team-communication"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Real-time messaging server",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Centrifugo: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Socket.IO",
+    "tagline": "Realtime bidirectional communication",
+    "description": "Socket.IO helps software developers with realtime bidirectional communication.",
+    "long_description": "Socket.IO is used by developers and engineering teams for realtime bidirectional communication. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://socket.io",
+    "pricing_url": null,
+    "docs_url": "https://socket.io",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "api-development"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Realtime bidirectional communication",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Socket.IO: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Pusher",
+    "tagline": "Hosted realtime APIs",
+    "description": "Pusher helps software developers with hosted realtime apis.",
+    "long_description": "Pusher is used by developers and engineering teams for hosted realtime apis. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://pusher.com",
+    "pricing_url": null,
+    "docs_url": "https://pusher.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": true,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "api-development",
+      "team-communication"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Hosted realtime APIs",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Pusher: Free tier available with limits on usage, seats, projects or advanced features.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Ably",
+    "tagline": "Realtime experience platform",
+    "description": "Ably helps software developers with realtime experience platform.",
+    "long_description": "Ably is used by developers and engineering teams for realtime experience platform. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://ably.com",
+    "pricing_url": null,
+    "docs_url": "https://ably.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": true,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "api-development"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Realtime experience platform",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Ably: Free tier available with limits on usage, seats, projects or advanced features.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "PubNub",
+    "tagline": "Realtime communication APIs",
+    "description": "PubNub helps software developers with realtime communication apis.",
+    "long_description": "PubNub is used by developers and engineering teams for realtime communication apis. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.pubnub.com",
+    "pricing_url": null,
+    "docs_url": "https://www.pubnub.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": true,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "api-development"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Realtime communication APIs",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "PubNub: Free tier available with limits on usage, seats, projects or advanced features.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "NATS",
+    "tagline": "Cloud-native messaging system",
+    "description": "NATS helps software developers with cloud-native messaging system.",
+    "long_description": "NATS is used by developers and engineering teams for cloud-native messaging system. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://nats.io",
+    "pricing_url": null,
+    "docs_url": "https://nats.io",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "data-engineering",
+      "devops"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Cloud-native messaging system",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "NATS: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "RabbitMQ",
+    "tagline": "Message broker",
+    "description": "RabbitMQ helps software developers with message broker.",
+    "long_description": "RabbitMQ is used by developers and engineering teams for message broker. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.rabbitmq.com",
+    "pricing_url": null,
+    "docs_url": "https://www.rabbitmq.com",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "data-engineering",
+      "devops"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Message broker",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "RabbitMQ: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Apache Pulsar",
+    "tagline": "Cloud-native messaging and streaming",
+    "description": "Apache Pulsar helps software developers with cloud-native messaging and streaming.",
+    "long_description": "Apache Pulsar is used by developers and engineering teams for cloud-native messaging and streaming. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://pulsar.apache.org",
+    "pricing_url": null,
+    "docs_url": "https://pulsar.apache.org",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "data-engineering"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Cloud-native messaging and streaming",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Apache Pulsar: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "ZeroMQ",
+    "tagline": "Messaging library",
+    "description": "ZeroMQ helps software developers with messaging library.",
+    "long_description": "ZeroMQ is used by developers and engineering teams for messaging library. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://zeromq.org",
+    "pricing_url": null,
+    "docs_url": "https://zeromq.org",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "api-development"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Messaging library",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "ZeroMQ: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "gRPC",
+    "tagline": "High-performance RPC framework",
+    "description": "gRPC helps software developers with high-performance rpc framework.",
+    "long_description": "gRPC is used by developers and engineering teams for high-performance rpc framework. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://grpc.io",
+    "pricing_url": null,
+    "docs_url": "https://grpc.io",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "api-development"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "High-performance RPC framework",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "gRPC: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Connect RPC",
+    "tagline": "Simple TypeScript-friendly RPC",
+    "description": "Connect RPC helps software developers with simple typescript-friendly rpc.",
+    "long_description": "Connect RPC is used by developers and engineering teams for simple typescript-friendly rpc. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://connectrpc.com",
+    "pricing_url": null,
+    "docs_url": "https://connectrpc.com",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "api-development"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Simple TypeScript-friendly RPC",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Connect RPC: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "tRPC",
+    "tagline": "End-to-end typesafe APIs",
+    "description": "tRPC helps software developers with end-to-end typesafe apis.",
+    "long_description": "tRPC is used by developers and engineering teams for end-to-end typesafe apis. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://trpc.io",
+    "pricing_url": null,
+    "docs_url": "https://trpc.io",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "api-development"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "End-to-end typesafe APIs",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "tRPC: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "GraphQL Yoga",
+    "tagline": "Fully-featured GraphQL server",
+    "description": "GraphQL Yoga helps software developers with fully-featured graphql server.",
+    "long_description": "GraphQL Yoga is used by developers and engineering teams for fully-featured graphql server. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://the-guild.dev/graphql/yoga-server",
+    "pricing_url": null,
+    "docs_url": "https://the-guild.dev/graphql/yoga-server",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "api-development"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Fully-featured GraphQL server",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "GraphQL Yoga: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Apollo Server",
+    "tagline": "GraphQL server for Node",
+    "description": "Apollo Server helps software developers with graphql server for node.",
+    "long_description": "Apollo Server is used by developers and engineering teams for graphql server for node. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.apollographql.com/docs/apollo-server",
+    "pricing_url": null,
+    "docs_url": "https://www.apollographql.com/docs/apollo-server",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": true
+    },
+    "categories": [
+      "api-development"
+    ],
+    "technologies": [
+      "APIs",
+      "CLI"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "GraphQL server for Node",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "SELF_HOST",
+        "description": "Apollo Server: Open source. Self-host or run locally; you provide infrastructure.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Apollo Studio",
+    "tagline": "GraphQL management platform",
+    "description": "Apollo Studio helps software developers with graphql management platform.",
+    "long_description": "Apollo Studio is used by developers and engineering teams for graphql management platform. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://www.apollographql.com/graphos",
+    "pricing_url": null,
+    "docs_url": "https://www.apollographql.com/graphos",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "api-development"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "GraphQL management platform",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Apollo Studio: Free tier available with limits on usage, seats, projects or advanced features.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Hasura Console",
+    "tagline": "Instant GraphQL admin console",
+    "description": "Hasura Console helps software developers with instant graphql admin console.",
+    "long_description": "Hasura Console is used by developers and engineering teams for instant graphql admin console. It fits day-to-day workflows around building, shipping and operating software.",
+    "website_url": "https://hasura.io/docs/latest/hasura-cloud/console/",
+    "pricing_url": null,
+    "docs_url": "https://hasura.io/docs/latest/hasura-cloud/console/",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "has_api": false,
+      "has_free_api": false,
+      "has_mcp": false,
+      "has_agent": false,
+      "has_local_model": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "database",
+      "api-development"
+    ],
+    "technologies": [
+      "Web"
+    ],
+    "features": [
+      "Productivity",
+      "Developer Tools"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Instant GraphQL admin console",
+      "Developer workflow support"
+    ],
+    "best_for": [
+      "Software developers and engineering teams"
+    ],
+    "not_ideal_for": [
+      "Users who need a consumer-only, non-technical product"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Hasura Console: Free tier available with limits on usage, seats, projects or advanced features.",
+        "restrictions": [
+          "Limits may apply on free or trial plans."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  }
+]
