@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Best Free AI Tools for Developers",
+    "slug": "best-free-ai-tools-for-developers",
+    "description": "The strongest no-cost options across coding, testing, research and media. Every entry has free-forever, open-source or recurring free-tier access.",
+    "icon": "sparkles",
+    "is_featured": true,
+    "sort_order": 1,
+    "tools": ["gemini-cli", "cline", "ollama", "google-ai-studio", "deepwiki", "continue", "coderabbit", "qodo", "openrouter", "semgrep", "whisper", "stable-diffusion-webui"]
+  },
+  {
+    "name": "Java Developer AI Toolkit",
+    "slug": "java-developer-ai-toolkit",
+    "description": "Tools that explicitly support Java, from IDE assistance to automated JUnit generation and static analysis.",
+    "icon": "coffee",
+    "is_featured": true,
+    "sort_order": 2,
+    "tools": ["jetbrains-ai-assistant", "diffblue-cover", "github-copilot", "qodo", "sonarqube", "amazon-q-developer", "semgrep", "claude"]
+  },
+  {
+    "name": "Spring Boot Developer AI Toolkit",
+    "slug": "spring-boot-developer-ai-toolkit",
+    "description": "Assistance for Spring Boot services: code, tests, API contracts, database and security scanning.",
+    "icon": "leaf",
+    "is_featured": false,
+    "sort_order": 3,
+    "tools": ["jetbrains-ai-assistant", "diffblue-cover", "keploy", "postman", "sonarqube", "snyk", "github-copilot", "tabnine"]
+  },
+  {
+    "name": "Free AI Coding Stack",
+    "slug": "free-ai-coding-stack",
+    "description": "A complete coding setup at zero cost: an agent, a local model, documentation grounding and code review.",
+    "icon": "code",
+    "is_featured": true,
+    "sort_order": 4,
+    "tools": ["cline", "ollama", "continue", "gemini-cli", "context7", "coderabbit", "aider", "openrouter"]
+  },
+  {
+    "name": "AI Tools for Software Testing",
+    "slug": "ai-tools-for-software-testing",
+    "description": "Generate unit tests, capture integration tests from real traffic and drive browsers from an agent.",
+    "icon": "flask",
+    "is_featured": true,
+    "sort_order": 5,
+    "tools": ["diffblue-cover", "qodo", "keploy", "playwright-mcp", "github-copilot", "sonarqube"]
+  },
+  {
+    "name": "AI Tools for Software Architecture",
+    "slug": "ai-tools-for-software-architecture",
+    "description": "Understand large systems, produce diagrams and reason about design decisions.",
+    "icon": "blueprint",
+    "is_featured": false,
+    "sort_order": 6,
+    "tools": ["deepwiki", "claude", "excalidraw", "sourcegraph-cody", "google-gemini", "notebooklm"]
+  },
+  {
+    "name": "AI Research Toolkit",
+    "slug": "ai-research-toolkit",
+    "description": "Answer engines, paper analysis and grounded notebooks for evidence-backed technical research.",
+    "icon": "microscope",
+    "is_featured": true,
+    "sort_order": 7,
+    "tools": ["perplexity", "notebooklm", "elicit", "consensus", "semantic-scholar", "phind"]
+  },
+  {
+    "name": "AI Tools for UI Development",
+    "slug": "ai-tools-for-ui-development",
+    "description": "From prompt to production-ready React components, plus design assets that scale.",
+    "icon": "layout",
+    "is_featured": true,
+    "sort_order": 8,
+    "tools": ["v0", "bolt-new", "lovable", "figma", "recraft", "excalidraw"]
+  },
+  {
+    "name": "AI Tools for DevOps",
+    "slug": "ai-tools-for-devops",
+    "description": "Diagnose clusters, generate infrastructure code, scan images and automate operational work.",
+    "icon": "rocket",
+    "is_featured": false,
+    "sort_order": 9,
+    "tools": ["k8sgpt", "warp", "pulumi", "trivy", "n8n", "snyk", "gitguardian"]
+  },
+  {
+    "name": "Free AI APIs",
+    "slug": "free-ai-apis",
+    "description": "Model endpoints you can call from code today without paying, each with documented free limits.",
+    "icon": "cloud",
+    "is_featured": true,
+    "sort_order": 10,
+    "tools": ["google-ai-studio", "groq", "openrouter", "cloudflare-workers-ai", "hugging-face", "ollama", "semantic-scholar", "elevenlabs"]
+  },
+  {
+    "name": "Open Source AI Toolkit",
+    "slug": "open-source-ai-toolkit",
+    "description": "Self-hostable building blocks: local inference, vector search, agent frameworks and RAG platforms.",
+    "icon": "package",
+    "is_featured": true,
+    "sort_order": 11,
+    "tools": ["ollama", "vllm", "langchain", "llamaindex", "chroma", "qdrant", "dify", "anythingllm", "n8n", "model-context-protocol"]
+  },
+  {
+    "name": "Free Generative Media Stack",
+    "slug": "free-generative-media-stack",
+    "description": "Images, video, speech and music with genuinely free access - self-hosted where it matters.",
+    "icon": "image",
+    "is_featured": false,
+    "sort_order": 12,
+    "tools": ["stable-diffusion-webui", "comfyui", "leonardo-ai", "kling-ai", "elevenlabs", "whisper", "piper", "suno"]
+  }
+]

@@ -1,0 +1,3045 @@
+[
+  {
+    "name": "Insomnia",
+    "tagline": "Classic developer workflow tool",
+    "description": "Insomnia supports a core engineering workflow without depending on AI features.",
+    "long_description": "Insomnia remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://insomnia.rest",
+    "pricing_url": null,
+    "docs_url": "https://insomnia.rest",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "non-ai-devtools",
+      "api-development"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "HTTP Clients",
+      "Collections",
+      "API Testing"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "API requests",
+      "Collections",
+      "Mocking"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Insomnia includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Bruno",
+    "tagline": "Classic developer workflow tool",
+    "description": "Bruno supports a core engineering workflow without depending on AI features.",
+    "long_description": "Bruno remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://www.usebruno.com",
+    "pricing_url": null,
+    "docs_url": "https://www.usebruno.com",
+    "pricing_status": "FREE_FOREVER",
+    "free_access_summary": "Free plan or free product available for ongoing core usage.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "non-ai-devtools",
+      "api-development"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "HTTP Clients",
+      "Git-friendly Collections",
+      "Offline APIs"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Local collections",
+      "API requests",
+      "Environment variables"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Bruno offers durable no-cost access for core usage.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "HTTPie",
+    "tagline": "Classic developer workflow tool",
+    "description": "HTTPie supports a core engineering workflow without depending on AI features.",
+    "long_description": "HTTPie remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://httpie.io",
+    "pricing_url": null,
+    "docs_url": "https://httpie.io",
+    "pricing_status": "FREE_FOREVER",
+    "free_access_summary": "Free plan or free product available for ongoing core usage.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "non-ai-devtools",
+      "api-development"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "HTTP requests",
+      "CLI workflows",
+      "Readable output"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "HTTPie offers durable no-cost access for core usage.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "curl",
+    "tagline": "Classic developer workflow tool",
+    "description": "curl supports a core engineering workflow without depending on AI features.",
+    "long_description": "curl remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://curl.se",
+    "pricing_url": null,
+    "docs_url": "https://curl.se",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "non-ai-devtools",
+      "api-development"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "HTTP requests",
+      "Scripting",
+      "Protocol debugging"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source curl; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "DBeaver",
+    "tagline": "Classic developer workflow tool",
+    "description": "DBeaver supports a core engineering workflow without depending on AI features.",
+    "long_description": "DBeaver remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://dbeaver.io",
+    "pricing_url": null,
+    "docs_url": "https://dbeaver.io",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "non-ai-devtools",
+      "database"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Query databases",
+      "Browse schemas",
+      "Manage connections"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source DBeaver; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "TablePlus",
+    "tagline": "Classic developer workflow tool",
+    "description": "TablePlus supports a core engineering workflow without depending on AI features.",
+    "long_description": "TablePlus remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://tableplus.com",
+    "pricing_url": null,
+    "docs_url": "https://tableplus.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "non-ai-devtools",
+      "database"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Query databases",
+      "Edit rows",
+      "Visual schema browsing"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "TablePlus includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Penpot",
+    "tagline": "Classic developer workflow tool",
+    "description": "Penpot supports a core engineering workflow without depending on AI features.",
+    "long_description": "Penpot remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://penpot.app",
+    "pricing_url": null,
+    "docs_url": "https://penpot.app",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "non-ai-devtools",
+      "design",
+      "ui-ux"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Interface design",
+      "Prototype sharing",
+      "Developer handoff"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source Penpot; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Git",
+    "tagline": "Classic developer workflow tool",
+    "description": "Git supports a core engineering workflow without depending on AI features.",
+    "long_description": "Git remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://git-scm.com",
+    "pricing_url": null,
+    "docs_url": "https://git-scm.com",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "non-ai-devtools",
+      "git-and-github"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Version control",
+      "Branching",
+      "History management"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source Git; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "GitHub",
+    "tagline": "Classic developer workflow tool",
+    "description": "GitHub supports a core engineering workflow without depending on AI features.",
+    "long_description": "GitHub remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://github.com",
+    "pricing_url": null,
+    "docs_url": "https://github.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "non-ai-devtools",
+      "git-and-github"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Repository hosting",
+      "Pull requests",
+      "Actions"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "GitHub includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "GitLab",
+    "tagline": "Classic developer workflow tool",
+    "description": "GitLab supports a core engineering workflow without depending on AI features.",
+    "long_description": "GitLab remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://about.gitlab.com",
+    "pricing_url": null,
+    "docs_url": "https://about.gitlab.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "non-ai-devtools",
+      "git-and-github",
+      "devops"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Source hosting",
+      "CI/CD",
+      "Merge requests"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "GitLab includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Jenkins",
+    "tagline": "Classic developer workflow tool",
+    "description": "Jenkins supports a core engineering workflow without depending on AI features.",
+    "long_description": "Jenkins remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://www.jenkins.io",
+    "pricing_url": null,
+    "docs_url": "https://www.jenkins.io",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "non-ai-devtools",
+      "devops"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "CI pipelines",
+      "Plugin ecosystem",
+      "Build automation"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source Jenkins; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Terraform",
+    "tagline": "Classic developer workflow tool",
+    "description": "Terraform supports a core engineering workflow without depending on AI features.",
+    "long_description": "Terraform remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://developer.hashicorp.com/terraform",
+    "pricing_url": null,
+    "docs_url": "https://developer.hashicorp.com/terraform",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "non-ai-devtools",
+      "devops"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Infrastructure as code",
+      "Plan/apply workflows",
+      "Multi-cloud provisioning"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source Terraform; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Kubernetes",
+    "tagline": "Classic developer workflow tool",
+    "description": "Kubernetes supports a core engineering workflow without depending on AI features.",
+    "long_description": "Kubernetes remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://kubernetes.io",
+    "pricing_url": null,
+    "docs_url": "https://kubernetes.io",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "non-ai-devtools",
+      "devops"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Container orchestration",
+      "Scheduling",
+      "Service discovery"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source Kubernetes; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Docker",
+    "tagline": "Classic developer workflow tool",
+    "description": "Docker supports a core engineering workflow without depending on AI features.",
+    "long_description": "Docker remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://www.docker.com",
+    "pricing_url": null,
+    "docs_url": "https://www.docker.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "non-ai-devtools",
+      "devops"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Containers",
+      "Image builds",
+      "Local orchestration"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Docker includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Sentry",
+    "tagline": "Classic developer workflow tool",
+    "description": "Sentry supports a core engineering workflow without depending on AI features.",
+    "long_description": "Sentry remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://sentry.io",
+    "pricing_url": null,
+    "docs_url": "https://sentry.io",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "non-ai-devtools",
+      "debugging",
+      "devops"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Error monitoring",
+      "Tracing",
+      "Release tracking"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Sentry includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Grafana",
+    "tagline": "Classic developer workflow tool",
+    "description": "Grafana supports a core engineering workflow without depending on AI features.",
+    "long_description": "Grafana remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://grafana.com",
+    "pricing_url": null,
+    "docs_url": "https://grafana.com",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "non-ai-devtools",
+      "devops",
+      "debugging"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Dashboards",
+      "Alerting",
+      "Metrics visualization"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source Grafana; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Prometheus",
+    "tagline": "Classic developer workflow tool",
+    "description": "Prometheus supports a core engineering workflow without depending on AI features.",
+    "long_description": "Prometheus remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://prometheus.io",
+    "pricing_url": null,
+    "docs_url": "https://prometheus.io",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "non-ai-devtools",
+      "devops",
+      "debugging"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Metrics collection",
+      "Alert rules",
+      "Time-series queries"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source Prometheus; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Playwright",
+    "tagline": "Classic developer workflow tool",
+    "description": "Playwright supports a core engineering workflow without depending on AI features.",
+    "long_description": "Playwright remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://playwright.dev",
+    "pricing_url": null,
+    "docs_url": "https://playwright.dev",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "non-ai-devtools",
+      "testing"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Browser automation",
+      "Cross-browser tests",
+      "Tracing"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source Playwright; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Cypress",
+    "tagline": "Classic developer workflow tool",
+    "description": "Cypress supports a core engineering workflow without depending on AI features.",
+    "long_description": "Cypress remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://www.cypress.io",
+    "pricing_url": null,
+    "docs_url": "https://www.cypress.io",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "non-ai-devtools",
+      "testing"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Web testing",
+      "Component tests",
+      "Cloud recordings"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Cypress includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Jest",
+    "tagline": "Classic developer workflow tool",
+    "description": "Jest supports a core engineering workflow without depending on AI features.",
+    "long_description": "Jest remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://jestjs.io",
+    "pricing_url": null,
+    "docs_url": "https://jestjs.io",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "non-ai-devtools",
+      "testing"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Unit tests",
+      "Snapshots",
+      "Mocking"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source Jest; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "pytest",
+    "tagline": "Classic developer workflow tool",
+    "description": "pytest supports a core engineering workflow without depending on AI features.",
+    "long_description": "pytest remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://pytest.org",
+    "pricing_url": null,
+    "docs_url": "https://pytest.org",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "non-ai-devtools",
+      "testing"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Python tests",
+      "Fixtures",
+      "Plugin ecosystem"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source pytest; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Selenium",
+    "tagline": "Classic developer workflow tool",
+    "description": "Selenium supports a core engineering workflow without depending on AI features.",
+    "long_description": "Selenium remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://www.selenium.dev",
+    "pricing_url": null,
+    "docs_url": "https://www.selenium.dev",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "non-ai-devtools",
+      "testing"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Browser automation",
+      "Grid execution",
+      "Cross-language bindings"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source Selenium; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "ESLint",
+    "tagline": "Classic developer workflow tool",
+    "description": "ESLint supports a core engineering workflow without depending on AI features.",
+    "long_description": "ESLint remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://eslint.org",
+    "pricing_url": null,
+    "docs_url": "https://eslint.org",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "non-ai-devtools",
+      "developer-productivity"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Linting",
+      "Rule enforcement",
+      "Code standards"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source ESLint; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Prettier",
+    "tagline": "Classic developer workflow tool",
+    "description": "Prettier supports a core engineering workflow without depending on AI features.",
+    "long_description": "Prettier remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://prettier.io",
+    "pricing_url": null,
+    "docs_url": "https://prettier.io",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "non-ai-devtools",
+      "developer-productivity"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Formatting",
+      "Consistent style",
+      "Editor integration"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source Prettier; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Auth0",
+    "tagline": "Classic developer workflow tool",
+    "description": "Auth0 supports a core engineering workflow without depending on AI features.",
+    "long_description": "Auth0 remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://auth0.com",
+    "pricing_url": null,
+    "docs_url": "https://auth0.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "non-ai-devtools",
+      "security"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Authentication",
+      "Single sign-on",
+      "User management"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Auth0 includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Clerk",
+    "tagline": "Classic developer workflow tool",
+    "description": "Clerk supports a core engineering workflow without depending on AI features.",
+    "long_description": "Clerk remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://clerk.com",
+    "pricing_url": null,
+    "docs_url": "https://clerk.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "non-ai-devtools",
+      "security"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Authentication",
+      "User management",
+      "Frontend auth flows"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Clerk includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Stripe",
+    "tagline": "Classic developer workflow tool",
+    "description": "Stripe supports a core engineering workflow without depending on AI features.",
+    "long_description": "Stripe remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://stripe.com",
+    "pricing_url": null,
+    "docs_url": "https://stripe.com",
+    "pricing_status": "FREE_FOREVER",
+    "free_access_summary": "Free plan or free product available for ongoing core usage.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "non-ai-devtools",
+      "api-development"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Payments APIs",
+      "Billing",
+      "Checkout flows"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Stripe offers durable no-cost access for core usage.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Regex101",
+    "tagline": "Classic developer workflow tool",
+    "description": "Regex101 supports a core engineering workflow without depending on AI features.",
+    "long_description": "Regex101 remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://regex101.com",
+    "pricing_url": null,
+    "docs_url": "https://regex101.com",
+    "pricing_status": "FREE_FOREVER",
+    "free_access_summary": "Free plan or free product available for ongoing core usage.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "non-ai-devtools",
+      "developer-productivity"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Regex testing",
+      "Explanation",
+      "Flavor comparison"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Regex101 offers durable no-cost access for core usage.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "MDN Web Docs",
+    "tagline": "Classic developer workflow tool",
+    "description": "MDN Web Docs supports a core engineering workflow without depending on AI features.",
+    "long_description": "MDN Web Docs remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://developer.mozilla.org",
+    "pricing_url": null,
+    "docs_url": "https://developer.mozilla.org",
+    "pricing_status": "FREE_FOREVER",
+    "free_access_summary": "Free plan or free product available for ongoing core usage.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "non-ai-devtools",
+      "documentation",
+      "learning"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Web references",
+      "Standards docs",
+      "Examples"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "MDN Web Docs offers durable no-cost access for core usage.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "DevDocs",
+    "tagline": "Classic developer workflow tool",
+    "description": "DevDocs supports a core engineering workflow without depending on AI features.",
+    "long_description": "DevDocs remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://devdocs.io",
+    "pricing_url": null,
+    "docs_url": "https://devdocs.io",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "non-ai-devtools",
+      "documentation",
+      "learning"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "API docs aggregation",
+      "Offline docs",
+      "Quick search"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source DevDocs; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "OBS Studio",
+    "tagline": "Classic developer workflow tool",
+    "description": "OBS Studio supports a core engineering workflow without depending on AI features.",
+    "long_description": "OBS Studio remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://obsproject.com",
+    "pricing_url": null,
+    "docs_url": "https://obsproject.com",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "non-ai-devtools",
+      "developer-productivity"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Screen recording",
+      "Streaming",
+      "Scene compositing"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source OBS Studio; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Loom",
+    "tagline": "Classic developer workflow tool",
+    "description": "Loom supports a core engineering workflow without depending on AI features.",
+    "long_description": "Loom remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://www.loom.com",
+    "pricing_url": null,
+    "docs_url": "https://www.loom.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "non-ai-devtools",
+      "developer-productivity"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Async video messages",
+      "Screen recording",
+      "Team sharing"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Loom includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Bitwarden",
+    "tagline": "Classic developer workflow tool",
+    "description": "Bitwarden supports a core engineering workflow without depending on AI features.",
+    "long_description": "Bitwarden remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://bitwarden.com",
+    "pricing_url": null,
+    "docs_url": "https://bitwarden.com",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "non-ai-devtools",
+      "security"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Password vaults",
+      "Secrets sharing",
+      "Self-host options"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source Bitwarden; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Wireshark",
+    "tagline": "Classic developer workflow tool",
+    "description": "Wireshark supports a core engineering workflow without depending on AI features.",
+    "long_description": "Wireshark remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://www.wireshark.org",
+    "pricing_url": null,
+    "docs_url": "https://www.wireshark.org",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "non-ai-devtools",
+      "security",
+      "debugging"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Packet capture",
+      "Protocol analysis",
+      "Network debugging"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source Wireshark; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "jq",
+    "tagline": "Classic developer workflow tool",
+    "description": "jq supports a core engineering workflow without depending on AI features.",
+    "long_description": "jq remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://jqlang.org",
+    "pricing_url": null,
+    "docs_url": "https://jqlang.org",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "non-ai-devtools",
+      "developer-productivity"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "JSON filtering",
+      "CLI transforms",
+      "Data inspection"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source jq; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Storybook",
+    "tagline": "Classic developer workflow tool",
+    "description": "Storybook supports a core engineering workflow without depending on AI features.",
+    "long_description": "Storybook remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://storybook.js.org",
+    "pricing_url": null,
+    "docs_url": "https://storybook.js.org",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "non-ai-devtools",
+      "ui-ux",
+      "testing"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Component workbenches",
+      "Visual review",
+      "Docs for UI"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source Storybook; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Swagger UI",
+    "tagline": "Classic developer workflow tool",
+    "description": "Swagger UI supports a core engineering workflow without depending on AI features.",
+    "long_description": "Swagger UI remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://swagger.io/tools/swagger-ui/",
+    "pricing_url": null,
+    "docs_url": "https://swagger.io/tools/swagger-ui/",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "non-ai-devtools",
+      "api-development",
+      "documentation"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "API docs",
+      "Try-it console",
+      "OpenAPI rendering"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source Swagger UI; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "OpenAPI Generator",
+    "tagline": "Classic developer workflow tool",
+    "description": "OpenAPI Generator supports a core engineering workflow without depending on AI features.",
+    "long_description": "OpenAPI Generator remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://openapi-generator.tech",
+    "pricing_url": null,
+    "docs_url": "https://openapi-generator.tech",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "non-ai-devtools",
+      "api-development"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "SDK generation",
+      "Server stubs",
+      "OpenAPI tooling"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source OpenAPI Generator; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "pgAdmin",
+    "tagline": "Classic developer workflow tool",
+    "description": "pgAdmin supports a core engineering workflow without depending on AI features.",
+    "long_description": "pgAdmin remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://www.pgadmin.org",
+    "pricing_url": null,
+    "docs_url": "https://www.pgadmin.org",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "non-ai-devtools",
+      "database"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Postgres administration",
+      "Query tool",
+      "Schema browsing"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source pgAdmin; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "RedisInsight",
+    "tagline": "Classic developer workflow tool",
+    "description": "RedisInsight supports a core engineering workflow without depending on AI features.",
+    "long_description": "RedisInsight remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://redis.io/insight/",
+    "pricing_url": null,
+    "docs_url": "https://redis.io/insight/",
+    "pricing_status": "FREE_FOREVER",
+    "free_access_summary": "Free plan or free product available for ongoing core usage.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "non-ai-devtools",
+      "database"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Redis inspection",
+      "CLI helpers",
+      "Performance views"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "RedisInsight offers durable no-cost access for core usage.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "DataGrip",
+    "tagline": "Classic developer workflow tool",
+    "description": "DataGrip supports a core engineering workflow without depending on AI features.",
+    "long_description": "DataGrip remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://www.jetbrains.com/datagrip/",
+    "pricing_url": null,
+    "docs_url": "https://www.jetbrains.com/datagrip/",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "non-ai-devtools",
+      "database"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Database IDE",
+      "SQL editing",
+      "Schema navigation"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "DataGrip can be tried before committing to a paid plan.",
+        "restrictions": [
+          "Trial period and advanced features are time-limited."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Nmap",
+    "tagline": "Classic developer workflow tool",
+    "description": "Nmap supports a core engineering workflow without depending on AI features.",
+    "long_description": "Nmap remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://nmap.org",
+    "pricing_url": null,
+    "docs_url": "https://nmap.org",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "non-ai-devtools",
+      "security"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Port scanning",
+      "Host discovery",
+      "Network auditing"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source Nmap; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "ngrok",
+    "tagline": "Classic developer workflow tool",
+    "description": "ngrok supports a core engineering workflow without depending on AI features.",
+    "long_description": "ngrok remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://ngrok.com",
+    "pricing_url": null,
+    "docs_url": "https://ngrok.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "non-ai-devtools",
+      "developer-productivity",
+      "api-development"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Secure tunnels",
+      "Webhook testing",
+      "Traffic inspection"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "ngrok includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "LocalStack",
+    "tagline": "Classic developer workflow tool",
+    "description": "LocalStack supports a core engineering workflow without depending on AI features.",
+    "long_description": "LocalStack remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://www.localstack.cloud",
+    "pricing_url": null,
+    "docs_url": "https://www.localstack.cloud",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "non-ai-devtools",
+      "devops"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Local AWS emulation",
+      "Offline cloud development",
+      "Integration testing"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "LocalStack includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "CircleCI",
+    "tagline": "Classic developer workflow tool",
+    "description": "CircleCI supports a core engineering workflow without depending on AI features.",
+    "long_description": "CircleCI remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://circleci.com",
+    "pricing_url": null,
+    "docs_url": "https://circleci.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "non-ai-devtools",
+      "devops"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Pipelines",
+      "Caching",
+      "Hosted runners"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "CircleCI includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Travis CI",
+    "tagline": "Classic developer workflow tool",
+    "description": "Travis CI supports a core engineering workflow without depending on AI features.",
+    "long_description": "Travis CI remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://www.travis-ci.com",
+    "pricing_url": null,
+    "docs_url": "https://www.travis-ci.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "non-ai-devtools",
+      "devops"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "CI pipelines",
+      "Build automation",
+      "GitHub integration"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Travis CI includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "BrowserStack",
+    "tagline": "Classic developer workflow tool",
+    "description": "BrowserStack supports a core engineering workflow without depending on AI features.",
+    "long_description": "BrowserStack remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://www.browserstack.com",
+    "pricing_url": null,
+    "docs_url": "https://www.browserstack.com",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "non-ai-devtools",
+      "testing"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Cross-browser testing",
+      "Real devices",
+      "Cloud execution"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "BrowserStack can be tried before committing to a paid plan.",
+        "restrictions": [
+          "Trial period and advanced features are time-limited."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "HashiCorp Vault",
+    "tagline": "Classic developer workflow tool",
+    "description": "HashiCorp Vault supports a core engineering workflow without depending on AI features.",
+    "long_description": "HashiCorp Vault remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://developer.hashicorp.com/vault",
+    "pricing_url": null,
+    "docs_url": "https://developer.hashicorp.com/vault",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "non-ai-devtools",
+      "security"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Secrets management",
+      "Dynamic credentials",
+      "PKI automation"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source HashiCorp Vault; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Keycloak",
+    "tagline": "Classic developer workflow tool",
+    "description": "Keycloak supports a core engineering workflow without depending on AI features.",
+    "long_description": "Keycloak remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://www.keycloak.org",
+    "pricing_url": null,
+    "docs_url": "https://www.keycloak.org",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "non-ai-devtools",
+      "security"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Identity management",
+      "Single sign-on",
+      "OIDC/SAML"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source Keycloak; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "RabbitMQ Management",
+    "tagline": "Classic developer workflow tool",
+    "description": "RabbitMQ Management supports a core engineering workflow without depending on AI features.",
+    "long_description": "RabbitMQ Management remains useful because it solves a concrete day-to-day engineering problem directly. Teams use it for reliable, repeatable workflows around coding, operations, QA or security.",
+    "website_url": "https://www.rabbitmq.com/docs/management",
+    "pricing_url": null,
+    "docs_url": "https://www.rabbitmq.com/docs/management",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "non-ai-devtools",
+      "devops"
+    ],
+    "technologies": [
+      "CLI"
+    ],
+    "features": [
+      "Automation",
+      "Productivity",
+      "Integrations"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub"
+    ],
+    "capabilities": [
+      "Queue visibility",
+      "Broker administration",
+      "Message monitoring"
+    ],
+    "best_for": [
+      "Engineering teams that want dependable tooling"
+    ],
+    "not_ideal_for": [
+      "Users who only want consumer-grade, no-setup apps"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source RabbitMQ Management; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  }
+]

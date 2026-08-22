@@ -1,0 +1,130 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --canvas: 252 252 253;
+    --surface: 255 255 255;
+    --raised: 246 247 249;
+    --line: 226 228 233;
+    --ink: 16 18 22;
+    --muted: 92 99 112;
+    --faint: 138 145 158;
+    --accent: 37 99 235;
+    --accent-ink: 255 255 255;
+    --positive: 21 128 61;
+    --caution: 180 83 9;
+    --negative: 190 41 41;
+  }
+
+  .dark {
+    --canvas: 9 11 14;
+    --surface: 15 18 22;
+    --raised: 22 26 32;
+    --line: 39 44 53;
+    --ink: 237 240 245;
+    --muted: 154 162 174;
+    --faint: 112 120 133;
+    --accent: 91 156 255;
+    --accent-ink: 8 12 20;
+    --positive: 74 201 126;
+    --caution: 224 163 74;
+    --negative: 240 113 113;
+  }
+
+  * {
+    @apply border-line;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-canvas text-ink antialiased;
+    font-feature-settings: 'cv02', 'cv03', 'cv04', 'ss01';
+  }
+
+  ::selection {
+    @apply bg-accent/25;
+  }
+
+  :focus-visible {
+    @apply outline-none ring-2 ring-accent ring-offset-2 ring-offset-canvas;
+  }
+}
+
+@layer components {
+  .container-page {
+    @apply mx-auto w-full max-w-content px-4 sm:px-6 lg:px-8;
+  }
+
+  .card {
+    @apply rounded-xl border border-line bg-surface transition-colors;
+  }
+
+  .card-interactive {
+    @apply card hover:border-faint/60 focus-within:border-accent;
+  }
+
+  .badge {
+    @apply inline-flex items-center gap-1 rounded-md border border-line px-1.5 py-0.5 text-2xs font-medium leading-4;
+  }
+
+  .btn {
+    @apply inline-flex select-none items-center justify-center gap-1.5 rounded-lg border text-sm font-medium
+      transition-colors disabled:cursor-not-allowed disabled:opacity-50 px-3 py-2;
+  }
+
+  .btn-primary {
+    @apply btn border-transparent bg-accent text-accent-ink hover:opacity-90;
+  }
+
+  .btn-secondary {
+    @apply btn border-line bg-surface text-ink hover:bg-raised;
+  }
+
+  .btn-ghost {
+    @apply btn border-transparent text-muted hover:bg-raised hover:text-ink;
+  }
+
+  .input {
+    @apply w-full rounded-lg border border-line bg-surface px-3 py-2 text-sm text-ink
+      placeholder:text-faint focus:border-accent focus:outline-none;
+  }
+
+  .link {
+    @apply text-accent underline-offset-4 hover:underline;
+  }
+
+  .section-title {
+    @apply text-lg font-semibold tracking-tight sm:text-xl;
+  }
+
+  .skeleton {
+    @apply relative overflow-hidden rounded-md bg-raised;
+  }
+
+  .skeleton::after {
+    content: '';
+    @apply absolute inset-0 -translate-x-full bg-gradient-to-r from-transparent via-line/60 to-transparent;
+    animation: shimmer 1.4s infinite;
+  }
+}
+
+@keyframes shimmer {
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}

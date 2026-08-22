@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DevAI Hub — Discover the right AI tools for every developer task</title>
+    <meta
+      name="description"
+      content="Search, compare and pick AI tools for coding, testing, research, design, image, video, audio and productivity. Free-first, with verified pricing and free-access limits."
+    />
+    <meta name="theme-color" content="#0b0d10" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="DevAI Hub" />
+    <meta property="og:title" content="DevAI Hub — Discover the right AI tools for every developer task" />
+    <meta
+      property="og:description"
+      content="A developer-first, free-first AI tools directory with real free-access limits, verified pricing and explainable recommendations."
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <script>
+      // Applied before first paint so dark mode never flashes.
+      (function () {
+        try {
+          var stored = localStorage.getItem('devai-hub:theme')
+          var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches
+          var dark = stored ? stored === 'dark' : prefersDark
+          document.documentElement.classList.toggle('dark', dark)
+        } catch (e) {}
+      })()
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

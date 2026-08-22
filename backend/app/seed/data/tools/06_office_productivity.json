@@ -1,0 +1,2168 @@
+[
+  {
+    "name": "Beautiful.ai",
+    "tagline": "Slides and presentation authoring",
+    "description": "Beautiful.ai helps teams create presentations, decks and visual narratives faster.",
+    "long_description": "Beautiful.ai is used for preparing internal updates, sales decks, workshops and investor presentations. It supports collaboration, reusable themes and quicker iteration than building every slide from scratch.",
+    "website_url": "https://www.beautiful.ai",
+    "pricing_url": null,
+    "docs_url": "https://www.beautiful.ai",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "presentations",
+      "productivity"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "Presentations",
+      "Templates",
+      "Collaboration"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Google Drive",
+      "PowerPoint"
+    ],
+    "capabilities": [
+      "Slide authoring",
+      "Template reuse",
+      "Team collaboration"
+    ],
+    "best_for": [
+      "Teams shipping decks regularly"
+    ],
+    "not_ideal_for": [
+      "Users who need a deeply technical diagram editor instead of slide tooling"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Beautiful.ai can be tried before committing to a paid plan.",
+        "restrictions": [
+          "Trial period and advanced features are time-limited."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Tome",
+    "tagline": "Slides and presentation authoring",
+    "description": "Tome helps teams create presentations, decks and visual narratives faster.",
+    "long_description": "Tome is used for preparing internal updates, sales decks, workshops and investor presentations. It supports collaboration, reusable themes and quicker iteration than building every slide from scratch.",
+    "website_url": "https://tome.app",
+    "pricing_url": null,
+    "docs_url": "https://tome.app",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "presentations",
+      "productivity"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "Presentations",
+      "Templates",
+      "Collaboration"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Google Drive",
+      "PowerPoint"
+    ],
+    "capabilities": [
+      "Slide authoring",
+      "Template reuse",
+      "Team collaboration"
+    ],
+    "best_for": [
+      "Teams shipping decks regularly"
+    ],
+    "not_ideal_for": [
+      "Users who need a deeply technical diagram editor instead of slide tooling"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Tome includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Plus AI",
+    "tagline": "Slides and presentation authoring",
+    "description": "Plus AI helps teams create presentations, decks and visual narratives faster.",
+    "long_description": "Plus AI is used for preparing internal updates, sales decks, workshops and investor presentations. It supports collaboration, reusable themes and quicker iteration than building every slide from scratch.",
+    "website_url": "https://www.plusdocs.com",
+    "pricing_url": null,
+    "docs_url": "https://www.plusdocs.com",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "presentations",
+      "productivity"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "Presentations",
+      "Templates",
+      "Collaboration"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Google Slides",
+      "PowerPoint",
+      "Google Drive"
+    ],
+    "capabilities": [
+      "Slide authoring",
+      "Template reuse",
+      "Team collaboration"
+    ],
+    "best_for": [
+      "Teams shipping decks regularly"
+    ],
+    "not_ideal_for": [
+      "Users who need a deeply technical diagram editor instead of slide tooling"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Plus AI can be tried before committing to a paid plan.",
+        "restrictions": [
+          "Trial period and advanced features are time-limited."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Slidesgo",
+    "tagline": "Slides and presentation authoring",
+    "description": "Slidesgo helps teams create presentations, decks and visual narratives faster.",
+    "long_description": "Slidesgo is used for preparing internal updates, sales decks, workshops and investor presentations. It supports collaboration, reusable themes and quicker iteration than building every slide from scratch.",
+    "website_url": "https://slidesgo.com",
+    "pricing_url": null,
+    "docs_url": "https://slidesgo.com",
+    "pricing_status": "FREE_FOREVER",
+    "free_access_summary": "Free plan or free product available for ongoing core usage.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "presentations",
+      "productivity"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "Templates",
+      "Slides",
+      "Design Assets"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Google Slides",
+      "PowerPoint"
+    ],
+    "capabilities": [
+      "Slide authoring",
+      "Template reuse",
+      "Team collaboration"
+    ],
+    "best_for": [
+      "Teams shipping decks regularly"
+    ],
+    "not_ideal_for": [
+      "Users who need a deeply technical diagram editor instead of slide tooling"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Slidesgo offers durable no-cost access for core usage.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Google Slides",
+    "tagline": "Slides and presentation authoring",
+    "description": "Google Slides helps teams create presentations, decks and visual narratives faster.",
+    "long_description": "Google Slides is used for preparing internal updates, sales decks, workshops and investor presentations. It supports collaboration, reusable themes and quicker iteration than building every slide from scratch.",
+    "website_url": "https://workspace.google.com/products/slides/",
+    "pricing_url": null,
+    "docs_url": "https://workspace.google.com/products/slides/",
+    "pricing_status": "FREE_FOREVER",
+    "free_access_summary": "Free plan or free product available for ongoing core usage.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "presentations",
+      "productivity"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "Presentations",
+      "Templates",
+      "Collaboration"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Google Drive",
+      "Google Meet",
+      "Google Sheets"
+    ],
+    "capabilities": [
+      "Slide authoring",
+      "Template reuse",
+      "Team collaboration"
+    ],
+    "best_for": [
+      "Teams shipping decks regularly"
+    ],
+    "not_ideal_for": [
+      "Users who need a deeply technical diagram editor instead of slide tooling"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Google Slides offers durable no-cost access for core usage.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Microsoft PowerPoint",
+    "tagline": "Slides and presentation authoring",
+    "description": "Microsoft PowerPoint helps teams create presentations, decks and visual narratives faster.",
+    "long_description": "Microsoft PowerPoint is used for preparing internal updates, sales decks, workshops and investor presentations. It supports collaboration, reusable themes and quicker iteration than building every slide from scratch.",
+    "website_url": "https://www.microsoft.com/microsoft-365/powerpoint",
+    "pricing_url": null,
+    "docs_url": "https://www.microsoft.com/microsoft-365/powerpoint",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "presentations",
+      "productivity"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "Presentations",
+      "Templates",
+      "Collaboration"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Microsoft 365",
+      "Teams",
+      "OneDrive"
+    ],
+    "capabilities": [
+      "Slide authoring",
+      "Template reuse",
+      "Team collaboration"
+    ],
+    "best_for": [
+      "Teams shipping decks regularly"
+    ],
+    "not_ideal_for": [
+      "Users who need a deeply technical diagram editor instead of slide tooling"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Microsoft PowerPoint includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Pitch",
+    "tagline": "Slides and presentation authoring",
+    "description": "Pitch helps teams create presentations, decks and visual narratives faster.",
+    "long_description": "Pitch is used for preparing internal updates, sales decks, workshops and investor presentations. It supports collaboration, reusable themes and quicker iteration than building every slide from scratch.",
+    "website_url": "https://pitch.com",
+    "pricing_url": null,
+    "docs_url": "https://pitch.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "presentations",
+      "productivity"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "Presentations",
+      "Templates",
+      "Collaboration"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Google Drive",
+      "PowerPoint"
+    ],
+    "capabilities": [
+      "Slide authoring",
+      "Template reuse",
+      "Team collaboration"
+    ],
+    "best_for": [
+      "Teams shipping decks regularly"
+    ],
+    "not_ideal_for": [
+      "Users who need a deeply technical diagram editor instead of slide tooling"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Pitch includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Shortwave",
+    "tagline": "Email workflow and inbox management",
+    "description": "Shortwave helps individuals or teams handle email faster with triage, collaboration and workflow features.",
+    "long_description": "Shortwave is used to manage inboxes, schedules and follow-ups with less manual effort. It is best suited to teams that live in email and need a more opinionated workflow than a default inbox provides.",
+    "website_url": "https://www.shortwave.com",
+    "pricing_url": null,
+    "docs_url": "https://www.shortwave.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "email",
+      "productivity",
+      "writing"
+    ],
+    "technologies": [
+      "HTML"
+    ],
+    "features": [
+      "Inbox Management",
+      "Scheduling",
+      "Collaboration"
+    ],
+    "platforms": [
+      "Web",
+      "macOS",
+      "iOS"
+    ],
+    "integrations": [
+      "Gmail",
+      "Google Calendar"
+    ],
+    "capabilities": [
+      "Inbox triage",
+      "Message scheduling",
+      "Shared workflows"
+    ],
+    "best_for": [
+      "Operators and founders who spend all day in email"
+    ],
+    "not_ideal_for": [
+      "Teams that only need transactional delivery APIs"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Shortwave includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Superhuman",
+    "tagline": "Email workflow and inbox management",
+    "description": "Superhuman helps individuals or teams handle email faster with triage, collaboration and workflow features.",
+    "long_description": "Superhuman is used to manage inboxes, schedules and follow-ups with less manual effort. It is best suited to teams that live in email and need a more opinionated workflow than a default inbox provides.",
+    "website_url": "https://superhuman.com",
+    "pricing_url": null,
+    "docs_url": "https://superhuman.com",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "email",
+      "productivity",
+      "writing"
+    ],
+    "technologies": [
+      "HTML"
+    ],
+    "features": [
+      "Inbox Management",
+      "Scheduling",
+      "Collaboration"
+    ],
+    "platforms": [
+      "Web",
+      "macOS",
+      "iOS"
+    ],
+    "integrations": [
+      "Gmail",
+      "Google Calendar"
+    ],
+    "capabilities": [
+      "Inbox triage",
+      "Message scheduling",
+      "Shared workflows"
+    ],
+    "best_for": [
+      "Operators and founders who spend all day in email"
+    ],
+    "not_ideal_for": [
+      "Teams that only need transactional delivery APIs"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Superhuman can be tried before committing to a paid plan.",
+        "restrictions": [
+          "Trial period and advanced features are time-limited."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Lavender",
+    "tagline": "Email workflow and inbox management",
+    "description": "Lavender helps individuals or teams handle email faster with triage, collaboration and workflow features.",
+    "long_description": "Lavender is used to manage inboxes, schedules and follow-ups with less manual effort. It is best suited to teams that live in email and need a more opinionated workflow than a default inbox provides.",
+    "website_url": "https://www.lavender.ai",
+    "pricing_url": null,
+    "docs_url": "https://www.lavender.ai",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "email",
+      "writing",
+      "productivity"
+    ],
+    "technologies": [
+      "HTML"
+    ],
+    "features": [
+      "Inbox Management",
+      "Scheduling",
+      "Collaboration"
+    ],
+    "platforms": [
+      "Web",
+      "macOS",
+      "iOS"
+    ],
+    "integrations": [
+      "Gmail",
+      "Google Calendar"
+    ],
+    "capabilities": [
+      "Inbox triage",
+      "Message scheduling",
+      "Shared workflows"
+    ],
+    "best_for": [
+      "Operators and founders who spend all day in email"
+    ],
+    "not_ideal_for": [
+      "Teams that only need transactional delivery APIs"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Lavender includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Mailchimp",
+    "tagline": "Transactional and campaign email delivery",
+    "description": "Mailchimp provides infrastructure for sending, routing or tracking email at scale.",
+    "long_description": "Mailchimp is used for transactional email, newsletters, deliverability monitoring and API-triggered messaging. It fits product and growth teams that need reliable delivery with analytics and templates.",
+    "website_url": "https://mailchimp.com",
+    "pricing_url": null,
+    "docs_url": "https://mailchimp.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "email",
+      "api-development"
+    ],
+    "technologies": [
+      "SMTP",
+      "HTTP APIs"
+    ],
+    "features": [
+      "Email APIs",
+      "Templates",
+      "Analytics"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Zapier",
+      "Node.js",
+      "Python"
+    ],
+    "capabilities": [
+      "Transactional delivery",
+      "List management",
+      "Send analytics"
+    ],
+    "best_for": [
+      "Teams sending product or marketing email"
+    ],
+    "not_ideal_for": [
+      "People who only need a personal inbox app"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Mailchimp includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Brevo",
+    "tagline": "Transactional and campaign email delivery",
+    "description": "Brevo provides infrastructure for sending, routing or tracking email at scale.",
+    "long_description": "Brevo is used for transactional email, newsletters, deliverability monitoring and API-triggered messaging. It fits product and growth teams that need reliable delivery with analytics and templates.",
+    "website_url": "https://www.brevo.com",
+    "pricing_url": null,
+    "docs_url": "https://www.brevo.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "email",
+      "api-development"
+    ],
+    "technologies": [
+      "SMTP",
+      "HTTP APIs"
+    ],
+    "features": [
+      "Email APIs",
+      "Templates",
+      "Analytics"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Zapier",
+      "Node.js",
+      "Python"
+    ],
+    "capabilities": [
+      "Transactional delivery",
+      "List management",
+      "Send analytics"
+    ],
+    "best_for": [
+      "Teams sending product or marketing email"
+    ],
+    "not_ideal_for": [
+      "People who only need a personal inbox app"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Brevo includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Resend",
+    "tagline": "Transactional and campaign email delivery",
+    "description": "Resend provides infrastructure for sending, routing or tracking email at scale.",
+    "long_description": "Resend is used for transactional email, newsletters, deliverability monitoring and API-triggered messaging. It fits product and growth teams that need reliable delivery with analytics and templates.",
+    "website_url": "https://resend.com",
+    "pricing_url": null,
+    "docs_url": "https://resend.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "email",
+      "api-development"
+    ],
+    "technologies": [
+      "HTTP APIs",
+      "SMTP",
+      "React"
+    ],
+    "features": [
+      "Email APIs",
+      "Templates",
+      "Analytics"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Zapier",
+      "Node.js",
+      "Python"
+    ],
+    "capabilities": [
+      "Transactional delivery",
+      "List management",
+      "Send analytics"
+    ],
+    "best_for": [
+      "Teams sending product or marketing email"
+    ],
+    "not_ideal_for": [
+      "People who only need a personal inbox app"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Resend includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Postmark",
+    "tagline": "Transactional and campaign email delivery",
+    "description": "Postmark provides infrastructure for sending, routing or tracking email at scale.",
+    "long_description": "Postmark is used for transactional email, newsletters, deliverability monitoring and API-triggered messaging. It fits product and growth teams that need reliable delivery with analytics and templates.",
+    "website_url": "https://postmarkapp.com",
+    "pricing_url": null,
+    "docs_url": "https://postmarkapp.com",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "email",
+      "api-development"
+    ],
+    "technologies": [
+      "SMTP",
+      "HTTP APIs"
+    ],
+    "features": [
+      "Email APIs",
+      "Templates",
+      "Analytics"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Zapier",
+      "Node.js",
+      "Python"
+    ],
+    "capabilities": [
+      "Transactional delivery",
+      "List management",
+      "Send analytics"
+    ],
+    "best_for": [
+      "Teams sending product or marketing email"
+    ],
+    "not_ideal_for": [
+      "People who only need a personal inbox app"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Postmark can be tried before committing to a paid plan.",
+        "restrictions": [
+          "Trial period and advanced features are time-limited."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "SendGrid",
+    "tagline": "Transactional and campaign email delivery",
+    "description": "SendGrid provides infrastructure for sending, routing or tracking email at scale.",
+    "long_description": "SendGrid is used for transactional email, newsletters, deliverability monitoring and API-triggered messaging. It fits product and growth teams that need reliable delivery with analytics and templates.",
+    "website_url": "https://sendgrid.com",
+    "pricing_url": null,
+    "docs_url": "https://sendgrid.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "email",
+      "api-development"
+    ],
+    "technologies": [
+      "SMTP",
+      "HTTP APIs"
+    ],
+    "features": [
+      "Email APIs",
+      "Templates",
+      "Analytics"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Zapier",
+      "Node.js",
+      "Python"
+    ],
+    "capabilities": [
+      "Transactional delivery",
+      "List management",
+      "Send analytics"
+    ],
+    "best_for": [
+      "Teams sending product or marketing email"
+    ],
+    "not_ideal_for": [
+      "People who only need a personal inbox app"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "SendGrid includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Mailgun",
+    "tagline": "Transactional and campaign email delivery",
+    "description": "Mailgun provides infrastructure for sending, routing or tracking email at scale.",
+    "long_description": "Mailgun is used for transactional email, newsletters, deliverability monitoring and API-triggered messaging. It fits product and growth teams that need reliable delivery with analytics and templates.",
+    "website_url": "https://www.mailgun.com",
+    "pricing_url": null,
+    "docs_url": "https://www.mailgun.com",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "email",
+      "api-development"
+    ],
+    "technologies": [
+      "SMTP",
+      "HTTP APIs"
+    ],
+    "features": [
+      "Email APIs",
+      "Templates",
+      "Analytics"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Zapier",
+      "Node.js",
+      "Python"
+    ],
+    "capabilities": [
+      "Transactional delivery",
+      "List management",
+      "Send analytics"
+    ],
+    "best_for": [
+      "Teams sending product or marketing email"
+    ],
+    "not_ideal_for": [
+      "People who only need a personal inbox app"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Mailgun can be tried before committing to a paid plan.",
+        "restrictions": [
+          "Trial period and advanced features are time-limited."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Amazon SES",
+    "tagline": "Transactional and campaign email delivery",
+    "description": "Amazon SES provides infrastructure for sending, routing or tracking email at scale.",
+    "long_description": "Amazon SES is used for transactional email, newsletters, deliverability monitoring and API-triggered messaging. It fits product and growth teams that need reliable delivery with analytics and templates.",
+    "website_url": "https://aws.amazon.com/ses/",
+    "pricing_url": null,
+    "docs_url": "https://aws.amazon.com/ses/",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "email",
+      "api-development"
+    ],
+    "technologies": [
+      "SMTP",
+      "HTTP APIs"
+    ],
+    "features": [
+      "Email APIs",
+      "Templates",
+      "Analytics"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "AWS",
+      "SMTP",
+      "Lambda"
+    ],
+    "capabilities": [
+      "Transactional delivery",
+      "List management",
+      "Send analytics"
+    ],
+    "best_for": [
+      "Teams sending product or marketing email"
+    ],
+    "not_ideal_for": [
+      "People who only need a personal inbox app"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Amazon SES includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Wordtune",
+    "tagline": "Email workflow and inbox management",
+    "description": "Wordtune helps individuals or teams handle email faster with triage, collaboration and workflow features.",
+    "long_description": "Wordtune is used to manage inboxes, schedules and follow-ups with less manual effort. It is best suited to teams that live in email and need a more opinionated workflow than a default inbox provides.",
+    "website_url": "https://www.wordtune.com",
+    "pricing_url": null,
+    "docs_url": "https://www.wordtune.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "writing",
+      "productivity",
+      "email"
+    ],
+    "technologies": [
+      "HTML"
+    ],
+    "features": [
+      "Inbox Management",
+      "Scheduling",
+      "Collaboration"
+    ],
+    "platforms": [
+      "Web",
+      "macOS",
+      "iOS"
+    ],
+    "integrations": [
+      "Gmail",
+      "Google Calendar"
+    ],
+    "capabilities": [
+      "Inbox triage",
+      "Message scheduling",
+      "Shared workflows"
+    ],
+    "best_for": [
+      "Operators and founders who spend all day in email"
+    ],
+    "not_ideal_for": [
+      "Teams that only need transactional delivery APIs"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Wordtune includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Google Sheets",
+    "tagline": "Spreadsheets and tabular collaboration",
+    "description": "Google Sheets helps teams model, analyze and share structured tabular work.",
+    "long_description": "Google Sheets is used for planning, reporting, operations and lightweight data workflows. It is useful when a team wants the flexibility of rows and formulas without jumping straight to a full database application.",
+    "website_url": "https://workspace.google.com/products/sheets/",
+    "pricing_url": null,
+    "docs_url": "https://workspace.google.com/products/sheets/",
+    "pricing_status": "FREE_FOREVER",
+    "free_access_summary": "Free plan or free product available for ongoing core usage.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "spreadsheets",
+      "productivity"
+    ],
+    "technologies": [
+      "Formulas",
+      "CSV"
+    ],
+    "features": [
+      "Spreadsheets",
+      "Dashboards",
+      "Collaboration"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Google Drive",
+      "Looker Studio",
+      "Google Forms"
+    ],
+    "capabilities": [
+      "Formula authoring",
+      "Shared tables",
+      "Reporting"
+    ],
+    "best_for": [
+      "Teams coordinating work in tables and formulas"
+    ],
+    "not_ideal_for": [
+      "Large engineering systems that need strict transactional guarantees"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Google Sheets offers durable no-cost access for core usage.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Microsoft Excel",
+    "tagline": "Spreadsheets and tabular collaboration",
+    "description": "Microsoft Excel helps teams model, analyze and share structured tabular work.",
+    "long_description": "Microsoft Excel is used for planning, reporting, operations and lightweight data workflows. It is useful when a team wants the flexibility of rows and formulas without jumping straight to a full database application.",
+    "website_url": "https://www.microsoft.com/microsoft-365/excel",
+    "pricing_url": null,
+    "docs_url": "https://www.microsoft.com/microsoft-365/excel",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "spreadsheets",
+      "productivity"
+    ],
+    "technologies": [
+      "Formulas",
+      "CSV"
+    ],
+    "features": [
+      "Spreadsheets",
+      "Dashboards",
+      "Collaboration"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Microsoft 365",
+      "Power BI",
+      "Teams"
+    ],
+    "capabilities": [
+      "Formula authoring",
+      "Shared tables",
+      "Reporting"
+    ],
+    "best_for": [
+      "Teams coordinating work in tables and formulas"
+    ],
+    "not_ideal_for": [
+      "Large engineering systems that need strict transactional guarantees"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Microsoft Excel includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Airtable",
+    "tagline": "Spreadsheets and tabular collaboration",
+    "description": "Airtable helps teams model, analyze and share structured tabular work.",
+    "long_description": "Airtable is used for planning, reporting, operations and lightweight data workflows. It is useful when a team wants the flexibility of rows and formulas without jumping straight to a full database application.",
+    "website_url": "https://www.airtable.com",
+    "pricing_url": null,
+    "docs_url": "https://www.airtable.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "spreadsheets",
+      "productivity",
+      "database"
+    ],
+    "technologies": [
+      "Formulas",
+      "CSV"
+    ],
+    "features": [
+      "Spreadsheets",
+      "Dashboards",
+      "Collaboration"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Google Drive",
+      "Slack"
+    ],
+    "capabilities": [
+      "Formula authoring",
+      "Shared tables",
+      "Reporting"
+    ],
+    "best_for": [
+      "Teams coordinating work in tables and formulas"
+    ],
+    "not_ideal_for": [
+      "Large engineering systems that need strict transactional guarantees"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Airtable includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Rows",
+    "tagline": "Spreadsheets and tabular collaboration",
+    "description": "Rows helps teams model, analyze and share structured tabular work.",
+    "long_description": "Rows is used for planning, reporting, operations and lightweight data workflows. It is useful when a team wants the flexibility of rows and formulas without jumping straight to a full database application.",
+    "website_url": "https://rows.com",
+    "pricing_url": null,
+    "docs_url": "https://rows.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "spreadsheets",
+      "productivity",
+      "developer-productivity"
+    ],
+    "technologies": [
+      "Formulas",
+      "CSV"
+    ],
+    "features": [
+      "Spreadsheets",
+      "Dashboards",
+      "Collaboration"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Google Drive",
+      "Slack"
+    ],
+    "capabilities": [
+      "Formula authoring",
+      "Shared tables",
+      "Reporting"
+    ],
+    "best_for": [
+      "Teams coordinating work in tables and formulas"
+    ],
+    "not_ideal_for": [
+      "Large engineering systems that need strict transactional guarantees"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Rows includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Coefficient",
+    "tagline": "Spreadsheets and tabular collaboration",
+    "description": "Coefficient helps teams model, analyze and share structured tabular work.",
+    "long_description": "Coefficient is used for planning, reporting, operations and lightweight data workflows. It is useful when a team wants the flexibility of rows and formulas without jumping straight to a full database application.",
+    "website_url": "https://coefficient.io",
+    "pricing_url": null,
+    "docs_url": "https://coefficient.io",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "spreadsheets",
+      "productivity"
+    ],
+    "technologies": [
+      "Formulas",
+      "CSV"
+    ],
+    "features": [
+      "Spreadsheets",
+      "Dashboards",
+      "Collaboration"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Google Drive",
+      "Slack"
+    ],
+    "capabilities": [
+      "Sync SaaS data",
+      "Spreadsheet reporting",
+      "Automated refresh"
+    ],
+    "best_for": [
+      "Teams coordinating work in tables and formulas"
+    ],
+    "not_ideal_for": [
+      "Large engineering systems that need strict transactional guarantees"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Coefficient includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Numerous.ai",
+    "tagline": "Spreadsheets and tabular collaboration",
+    "description": "Numerous.ai helps teams model, analyze and share structured tabular work.",
+    "long_description": "Numerous.ai is used for planning, reporting, operations and lightweight data workflows. It is useful when a team wants the flexibility of rows and formulas without jumping straight to a full database application.",
+    "website_url": "https://numerous.ai",
+    "pricing_url": null,
+    "docs_url": "https://numerous.ai",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "spreadsheets",
+      "productivity",
+      "ai-apis"
+    ],
+    "technologies": [
+      "Formulas",
+      "CSV"
+    ],
+    "features": [
+      "Spreadsheets",
+      "Dashboards",
+      "Collaboration"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Google Drive",
+      "Slack"
+    ],
+    "capabilities": [
+      "Formula authoring",
+      "Shared tables",
+      "Reporting"
+    ],
+    "best_for": [
+      "Teams coordinating work in tables and formulas"
+    ],
+    "not_ideal_for": [
+      "Large engineering systems that need strict transactional guarantees"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Numerous.ai can be tried before committing to a paid plan.",
+        "restrictions": [
+          "Trial period and advanced features are time-limited."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Notion AI",
+    "tagline": "Spreadsheets and tabular collaboration",
+    "description": "Notion AI helps teams model, analyze and share structured tabular work.",
+    "long_description": "Notion AI is used for planning, reporting, operations and lightweight data workflows. It is useful when a team wants the flexibility of rows and formulas without jumping straight to a full database application.",
+    "website_url": "https://www.notion.so/product/ai",
+    "pricing_url": null,
+    "docs_url": "https://www.notion.so/product/ai",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "productivity",
+      "writing",
+      "spreadsheets"
+    ],
+    "technologies": [
+      "Formulas",
+      "CSV"
+    ],
+    "features": [
+      "Spreadsheets",
+      "Dashboards",
+      "Collaboration"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Notion",
+      "Slack",
+      "Google Drive"
+    ],
+    "capabilities": [
+      "Formula authoring",
+      "Shared tables",
+      "Reporting"
+    ],
+    "best_for": [
+      "Teams coordinating work in tables and formulas"
+    ],
+    "not_ideal_for": [
+      "Large engineering systems that need strict transactional guarantees"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Notion AI includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Coda",
+    "tagline": "Spreadsheets and tabular collaboration",
+    "description": "Coda helps teams model, analyze and share structured tabular work.",
+    "long_description": "Coda is used for planning, reporting, operations and lightweight data workflows. It is useful when a team wants the flexibility of rows and formulas without jumping straight to a full database application.",
+    "website_url": "https://coda.io",
+    "pricing_url": null,
+    "docs_url": "https://coda.io",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "spreadsheets",
+      "productivity",
+      "documentation"
+    ],
+    "technologies": [
+      "Formulas",
+      "CSV"
+    ],
+    "features": [
+      "Spreadsheets",
+      "Dashboards",
+      "Collaboration"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Google Drive",
+      "Slack"
+    ],
+    "capabilities": [
+      "Formula authoring",
+      "Shared tables",
+      "Reporting"
+    ],
+    "best_for": [
+      "Teams coordinating work in tables and formulas"
+    ],
+    "not_ideal_for": [
+      "Large engineering systems that need strict transactional guarantees"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Coda includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Mentimeter",
+    "tagline": "Slides and presentation authoring",
+    "description": "Mentimeter helps teams create presentations, decks and visual narratives faster.",
+    "long_description": "Mentimeter is used for preparing internal updates, sales decks, workshops and investor presentations. It supports collaboration, reusable themes and quicker iteration than building every slide from scratch.",
+    "website_url": "https://www.mentimeter.com",
+    "pricing_url": null,
+    "docs_url": "https://www.mentimeter.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "presentations",
+      "productivity"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "Presentations",
+      "Templates",
+      "Collaboration"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Google Drive",
+      "PowerPoint"
+    ],
+    "capabilities": [
+      "Interactive polls",
+      "Live presentations",
+      "Audience feedback"
+    ],
+    "best_for": [
+      "Teams shipping decks regularly"
+    ],
+    "not_ideal_for": [
+      "Users who need a deeply technical diagram editor instead of slide tooling"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Mentimeter includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Prezi",
+    "tagline": "Slides and presentation authoring",
+    "description": "Prezi helps teams create presentations, decks and visual narratives faster.",
+    "long_description": "Prezi is used for preparing internal updates, sales decks, workshops and investor presentations. It supports collaboration, reusable themes and quicker iteration than building every slide from scratch.",
+    "website_url": "https://prezi.com",
+    "pricing_url": null,
+    "docs_url": "https://prezi.com",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "presentations",
+      "productivity"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "Presentations",
+      "Templates",
+      "Collaboration"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Google Drive",
+      "PowerPoint"
+    ],
+    "capabilities": [
+      "Zooming presentations",
+      "Visual storytelling",
+      "Remote presenting"
+    ],
+    "best_for": [
+      "Teams shipping decks regularly"
+    ],
+    "not_ideal_for": [
+      "Users who need a deeply technical diagram editor instead of slide tooling"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Prezi can be tried before committing to a paid plan.",
+        "restrictions": [
+          "Trial period and advanced features are time-limited."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Apple Keynote",
+    "tagline": "Slides and presentation authoring",
+    "description": "Apple Keynote helps teams create presentations, decks and visual narratives faster.",
+    "long_description": "Apple Keynote is used for preparing internal updates, sales decks, workshops and investor presentations. It supports collaboration, reusable themes and quicker iteration than building every slide from scratch.",
+    "website_url": "https://www.apple.com/keynote/",
+    "pricing_url": null,
+    "docs_url": "https://www.apple.com/keynote/",
+    "pricing_status": "FREE_FOREVER",
+    "free_access_summary": "Free plan or free product available for ongoing core usage.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "presentations",
+      "productivity"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "Presentations",
+      "Templates",
+      "Collaboration"
+    ],
+    "platforms": [
+      "macOS",
+      "iOS",
+      "Web"
+    ],
+    "integrations": [
+      "iCloud",
+      "Apple devices"
+    ],
+    "capabilities": [
+      "Slide authoring",
+      "Template reuse",
+      "Team collaboration"
+    ],
+    "best_for": [
+      "Teams shipping decks regularly"
+    ],
+    "not_ideal_for": [
+      "Users who need a deeply technical diagram editor instead of slide tooling"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Apple Keynote offers durable no-cost access for core usage.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "LibreOffice Impress",
+    "tagline": "Slides and presentation authoring",
+    "description": "LibreOffice Impress helps teams create presentations, decks and visual narratives faster.",
+    "long_description": "LibreOffice Impress is used for preparing internal updates, sales decks, workshops and investor presentations. It supports collaboration, reusable themes and quicker iteration than building every slide from scratch.",
+    "website_url": "https://www.libreoffice.org/discover/impress/",
+    "pricing_url": null,
+    "docs_url": "https://www.libreoffice.org/discover/impress/",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "presentations",
+      "productivity"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "Presentations",
+      "Offline Editing",
+      "Templates"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "PowerPoint"
+    ],
+    "capabilities": [
+      "Slide authoring",
+      "Template reuse",
+      "Team collaboration"
+    ],
+    "best_for": [
+      "Teams shipping decks regularly"
+    ],
+    "not_ideal_for": [
+      "Users who need a deeply technical diagram editor instead of slide tooling"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source LibreOffice Impress; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Baserow",
+    "tagline": "Spreadsheets and tabular collaboration",
+    "description": "Baserow helps teams model, analyze and share structured tabular work.",
+    "long_description": "Baserow is used for planning, reporting, operations and lightweight data workflows. It is useful when a team wants the flexibility of rows and formulas without jumping straight to a full database application.",
+    "website_url": "https://baserow.io",
+    "pricing_url": null,
+    "docs_url": "https://baserow.io",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "spreadsheets",
+      "database",
+      "productivity"
+    ],
+    "technologies": [
+      "Formulas",
+      "CSV"
+    ],
+    "features": [
+      "Spreadsheets",
+      "Dashboards",
+      "Collaboration"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Google Drive",
+      "Slack"
+    ],
+    "capabilities": [
+      "Formula authoring",
+      "Shared tables",
+      "Reporting"
+    ],
+    "best_for": [
+      "Teams coordinating work in tables and formulas"
+    ],
+    "not_ideal_for": [
+      "Large engineering systems that need strict transactional guarantees"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source Baserow; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "NocoDB",
+    "tagline": "Spreadsheets and tabular collaboration",
+    "description": "NocoDB helps teams model, analyze and share structured tabular work.",
+    "long_description": "NocoDB is used for planning, reporting, operations and lightweight data workflows. It is useful when a team wants the flexibility of rows and formulas without jumping straight to a full database application.",
+    "website_url": "https://nocodb.com",
+    "pricing_url": null,
+    "docs_url": "https://nocodb.com",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "spreadsheets",
+      "database",
+      "developer-productivity"
+    ],
+    "technologies": [
+      "Formulas",
+      "CSV"
+    ],
+    "features": [
+      "Spreadsheets",
+      "Dashboards",
+      "Collaboration"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Google Drive",
+      "Slack"
+    ],
+    "capabilities": [
+      "Formula authoring",
+      "Shared tables",
+      "Reporting"
+    ],
+    "best_for": [
+      "Teams coordinating work in tables and formulas"
+    ],
+    "not_ideal_for": [
+      "Large engineering systems that need strict transactional guarantees"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source NocoDB; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Formula Bot",
+    "tagline": "Spreadsheets and tabular collaboration",
+    "description": "Formula Bot helps teams model, analyze and share structured tabular work.",
+    "long_description": "Formula Bot is used for planning, reporting, operations and lightweight data workflows. It is useful when a team wants the flexibility of rows and formulas without jumping straight to a full database application.",
+    "website_url": "https://formulabot.com",
+    "pricing_url": null,
+    "docs_url": "https://formulabot.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "spreadsheets",
+      "productivity",
+      "learning"
+    ],
+    "technologies": [
+      "Formulas",
+      "CSV"
+    ],
+    "features": [
+      "Spreadsheets",
+      "Dashboards",
+      "Collaboration"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Google Drive",
+      "Slack"
+    ],
+    "capabilities": [
+      "Formula authoring",
+      "Shared tables",
+      "Reporting"
+    ],
+    "best_for": [
+      "Teams coordinating work in tables and formulas"
+    ],
+    "not_ideal_for": [
+      "Large engineering systems that need strict transactional guarantees"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Formula Bot includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Looker Studio",
+    "tagline": "Spreadsheets and tabular collaboration",
+    "description": "Looker Studio helps teams model, analyze and share structured tabular work.",
+    "long_description": "Looker Studio is used for planning, reporting, operations and lightweight data workflows. It is useful when a team wants the flexibility of rows and formulas without jumping straight to a full database application.",
+    "website_url": "https://lookerstudio.google.com",
+    "pricing_url": null,
+    "docs_url": "https://lookerstudio.google.com",
+    "pricing_status": "FREE_FOREVER",
+    "free_access_summary": "Free plan or free product available for ongoing core usage.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "spreadsheets",
+      "productivity",
+      "research"
+    ],
+    "technologies": [
+      "Formulas",
+      "CSV"
+    ],
+    "features": [
+      "Spreadsheets",
+      "Dashboards",
+      "Collaboration"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Google Drive",
+      "Slack"
+    ],
+    "capabilities": [
+      "Dashboards",
+      "Data blending",
+      "Reporting"
+    ],
+    "best_for": [
+      "Teams coordinating work in tables and formulas"
+    ],
+    "not_ideal_for": [
+      "Large engineering systems that need strict transactional guarantees"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Looker Studio offers durable no-cost access for core usage.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Zoho Sheet",
+    "tagline": "Spreadsheets and tabular collaboration",
+    "description": "Zoho Sheet helps teams model, analyze and share structured tabular work.",
+    "long_description": "Zoho Sheet is used for planning, reporting, operations and lightweight data workflows. It is useful when a team wants the flexibility of rows and formulas without jumping straight to a full database application.",
+    "website_url": "https://www.zoho.com/sheet/",
+    "pricing_url": null,
+    "docs_url": "https://www.zoho.com/sheet/",
+    "pricing_status": "FREE_FOREVER",
+    "free_access_summary": "Free plan or free product available for ongoing core usage.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "spreadsheets",
+      "productivity"
+    ],
+    "technologies": [
+      "Formulas",
+      "CSV"
+    ],
+    "features": [
+      "Spreadsheets",
+      "Dashboards",
+      "Collaboration"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Zoho",
+      "Google Drive"
+    ],
+    "capabilities": [
+      "Formula authoring",
+      "Shared tables",
+      "Reporting"
+    ],
+    "best_for": [
+      "Teams coordinating work in tables and formulas"
+    ],
+    "not_ideal_for": [
+      "Large engineering systems that need strict transactional guarantees"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Zoho Sheet offers durable no-cost access for core usage.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "MailerLite",
+    "tagline": "Transactional and campaign email delivery",
+    "description": "MailerLite provides infrastructure for sending, routing or tracking email at scale.",
+    "long_description": "MailerLite is used for transactional email, newsletters, deliverability monitoring and API-triggered messaging. It fits product and growth teams that need reliable delivery with analytics and templates.",
+    "website_url": "https://www.mailerlite.com",
+    "pricing_url": null,
+    "docs_url": "https://www.mailerlite.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "email",
+      "api-development"
+    ],
+    "technologies": [
+      "SMTP",
+      "HTTP APIs"
+    ],
+    "features": [
+      "Email APIs",
+      "Templates",
+      "Analytics"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Zapier",
+      "Node.js",
+      "Python"
+    ],
+    "capabilities": [
+      "Transactional delivery",
+      "List management",
+      "Send analytics"
+    ],
+    "best_for": [
+      "Teams sending product or marketing email"
+    ],
+    "not_ideal_for": [
+      "People who only need a personal inbox app"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "MailerLite includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  }
+]

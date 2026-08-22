@@ -1,0 +1,2143 @@
+[
+  {
+    "name": "draw.io / diagrams.net",
+    "tagline": "Architecture and UML diagramming",
+    "description": "draw.io / diagrams.net helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "draw.io / diagrams.net is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://www.diagrams.net",
+    "pricing_url": null,
+    "docs_url": "https://www.diagrams.net",
+    "pricing_status": "FREE_FOREVER",
+    "free_access_summary": "Free plan or free product available for ongoing core usage.",
+    "featured": true,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "diagrams-uml",
+      "software-architecture",
+      "documentation",
+      "whiteboarding"
+    ],
+    "technologies": [
+      "JavaScript",
+      "XML"
+    ],
+    "features": [
+      "UML",
+      "Sequence Diagrams",
+      "Class Diagrams",
+      "Architecture Diagrams"
+    ],
+    "platforms": [
+      "Web",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "Google Drive",
+      "OneDrive",
+      "GitHub"
+    ],
+    "capabilities": [
+      "Architecture overviews",
+      "Network diagrams",
+      "Flowcharts"
+    ],
+    "best_for": [
+      "Teams that want a capable free diagramming tool"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "draw.io / diagrams.net offers durable no-cost access for core usage.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Mermaid",
+    "tagline": "Architecture and UML diagramming",
+    "description": "Mermaid helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "Mermaid is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://mermaid.js.org",
+    "pricing_url": null,
+    "docs_url": "https://mermaid.js.org",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": true,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "diagrams-uml",
+      "software-architecture",
+      "documentation",
+      "non-ai-devtools"
+    ],
+    "technologies": [
+      "JavaScript",
+      "Markdown"
+    ],
+    "features": [
+      "UML",
+      "Sequence Diagrams",
+      "Class Diagrams",
+      "Architecture Diagrams"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub",
+      "VS Code",
+      "Notion"
+    ],
+    "capabilities": [
+      "Sequence diagrams",
+      "Flowcharts",
+      "ER diagrams"
+    ],
+    "best_for": [
+      "Docs-as-code teams keeping diagrams beside source"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source Mermaid; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "PlantUML",
+    "tagline": "Architecture and UML diagramming",
+    "description": "PlantUML helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "PlantUML is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://plantuml.com",
+    "pricing_url": null,
+    "docs_url": "https://plantuml.com",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": true,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "diagrams-uml",
+      "software-architecture",
+      "non-ai-devtools"
+    ],
+    "technologies": [
+      "Java",
+      "Markdown"
+    ],
+    "features": [
+      "UML",
+      "Sequence Diagrams",
+      "Class Diagrams",
+      "Architecture Diagrams"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "VS Code",
+      "IntelliJ IDEA",
+      "GitHub"
+    ],
+    "capabilities": [
+      "Sequence diagrams",
+      "Class diagrams",
+      "Activity diagrams"
+    ],
+    "best_for": [
+      "Teams documenting APIs with sequence diagrams"
+    ],
+    "not_ideal_for": [
+      "Non-technical stakeholders who prefer drag-drop only"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source PlantUML; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Structurizr",
+    "tagline": "Architecture and UML diagramming",
+    "description": "Structurizr helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "Structurizr is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://structurizr.com",
+    "pricing_url": null,
+    "docs_url": "https://structurizr.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": true,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "diagrams-uml",
+      "software-architecture",
+      "documentation"
+    ],
+    "technologies": [
+      "Java",
+      "DSL"
+    ],
+    "features": [
+      "UML",
+      "Sequence Diagrams",
+      "Class Diagrams",
+      "Architecture Diagrams"
+    ],
+    "platforms": [
+      "Web",
+      "CLI"
+    ],
+    "integrations": [
+      "GitHub",
+      "VS Code"
+    ],
+    "capabilities": [
+      "C4 models",
+      "Architecture documentation",
+      "Workspace publishing"
+    ],
+    "best_for": [
+      "Teams using the C4 model for architecture communication"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Structurizr includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Lucidchart",
+    "tagline": "Architecture and UML diagramming",
+    "description": "Lucidchart helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "Lucidchart is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://www.lucidchart.com",
+    "pricing_url": null,
+    "docs_url": "https://www.lucidchart.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "diagrams-uml",
+      "software-architecture",
+      "whiteboarding"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "UML",
+      "Sequence Diagrams",
+      "Class Diagrams",
+      "Architecture Diagrams"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Google Drive",
+      "Slack",
+      "Atlassian"
+    ],
+    "capabilities": [
+      "Sequence diagrams",
+      "Class diagrams",
+      "Architecture overviews"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Lucidchart includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Miro",
+    "tagline": "Architecture and UML diagramming",
+    "description": "Miro helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "Miro is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://miro.com",
+    "pricing_url": null,
+    "docs_url": "https://miro.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "whiteboarding",
+      "software-architecture",
+      "diagrams-uml"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "Whiteboarding",
+      "Flowcharts",
+      "Collaboration"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Slack",
+      "Jira",
+      "Google Drive"
+    ],
+    "capabilities": [
+      "Workshops",
+      "Journey maps",
+      "Architecture brainstorming"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Miro includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "FigJam",
+    "tagline": "Architecture and UML diagramming",
+    "description": "FigJam helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "FigJam is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://www.figma.com/figjam",
+    "pricing_url": null,
+    "docs_url": "https://www.figma.com/figjam",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "whiteboarding",
+      "design",
+      "software-architecture"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "Whiteboarding",
+      "Sticky Notes",
+      "Flowcharts"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Figma",
+      "Jira",
+      "Slack"
+    ],
+    "capabilities": [
+      "Workshops",
+      "Diagramming",
+      "Design collaboration"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "FigJam includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Whimsical",
+    "tagline": "Architecture and UML diagramming",
+    "description": "Whimsical helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "Whimsical is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://whimsical.com",
+    "pricing_url": null,
+    "docs_url": "https://whimsical.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "whiteboarding",
+      "diagrams-uml",
+      "software-architecture"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "Flowcharts",
+      "Mind Maps",
+      "Wireframes"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "GitHub",
+      "VS Code"
+    ],
+    "capabilities": [
+      "Flowcharts",
+      "Mind maps",
+      "Wireframe sketches"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Whimsical includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Graphviz",
+    "tagline": "Architecture and UML diagramming",
+    "description": "Graphviz helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "Graphviz is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://graphviz.org",
+    "pricing_url": null,
+    "docs_url": "https://graphviz.org",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "diagrams-uml",
+      "software-architecture",
+      "non-ai-devtools"
+    ],
+    "technologies": [
+      "DOT"
+    ],
+    "features": [
+      "UML",
+      "Sequence Diagrams",
+      "Class Diagrams",
+      "Architecture Diagrams"
+    ],
+    "platforms": [
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "VS Code",
+      "GitHub"
+    ],
+    "capabilities": [
+      "Directed graphs",
+      "Dependency visualization",
+      "Layout automation"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source Graphviz; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "D2",
+    "tagline": "Architecture and UML diagramming",
+    "description": "D2 helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "D2 is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://d2lang.com",
+    "pricing_url": null,
+    "docs_url": "https://d2lang.com",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "diagrams-uml",
+      "software-architecture",
+      "documentation"
+    ],
+    "technologies": [
+      "DSL"
+    ],
+    "features": [
+      "UML",
+      "Sequence Diagrams",
+      "Class Diagrams",
+      "Architecture Diagrams"
+    ],
+    "platforms": [
+      "CLI",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "VS Code",
+      "GitHub"
+    ],
+    "capabilities": [
+      "Text-to-diagram",
+      "Architecture diagrams",
+      "Sequence diagrams"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source D2; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Kroki",
+    "tagline": "Architecture and UML diagramming",
+    "description": "Kroki helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "Kroki is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://kroki.io",
+    "pricing_url": null,
+    "docs_url": "https://kroki.io",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "diagrams-uml",
+      "documentation",
+      "software-architecture"
+    ],
+    "technologies": [
+      "HTTP APIs"
+    ],
+    "features": [
+      "UML",
+      "Sequence Diagrams",
+      "Class Diagrams",
+      "Architecture Diagrams"
+    ],
+    "platforms": [
+      "Web",
+      "CLI",
+      "Linux"
+    ],
+    "integrations": [
+      "Asciidoctor",
+      "GitHub"
+    ],
+    "capabilities": [
+      "Render diagram DSLs",
+      "Embed docs diagrams",
+      "Self-host renderers"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source Kroki; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "dbdiagram.io",
+    "tagline": "Architecture and UML diagramming",
+    "description": "dbdiagram.io helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "dbdiagram.io is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://dbdiagram.io",
+    "pricing_url": null,
+    "docs_url": "https://dbdiagram.io",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "diagrams-uml",
+      "database",
+      "software-architecture"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "ER Diagrams",
+      "Schema Modeling",
+      "SQL Import"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "GitHub",
+      "VS Code"
+    ],
+    "capabilities": [
+      "Schema diagrams",
+      "Database collaboration",
+      "SQL export"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "dbdiagram.io includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "IcePanel",
+    "tagline": "Architecture and UML diagramming",
+    "description": "IcePanel helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "IcePanel is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://icepanel.io",
+    "pricing_url": null,
+    "docs_url": "https://icepanel.io",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "software-architecture",
+      "diagrams-uml",
+      "documentation"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "UML",
+      "Sequence Diagrams",
+      "Class Diagrams",
+      "Architecture Diagrams"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "GitHub",
+      "VS Code"
+    ],
+    "capabilities": [
+      "Architecture mapping",
+      "System flows",
+      "C4-style views"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "IcePanel includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Eraser",
+    "tagline": "Architecture and UML diagramming",
+    "description": "Eraser helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "Eraser is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://www.eraser.io",
+    "pricing_url": null,
+    "docs_url": "https://www.eraser.io",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "software-architecture",
+      "documentation",
+      "whiteboarding"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "Docs",
+      "Diagrams",
+      "Collaboration"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "GitHub",
+      "VS Code"
+    ],
+    "capabilities": [
+      "Technical diagrams",
+      "Docs with visuals",
+      "Architecture communication"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Eraser includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "tldraw",
+    "tagline": "Architecture and UML diagramming",
+    "description": "tldraw helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "tldraw is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://www.tldraw.com",
+    "pricing_url": null,
+    "docs_url": "https://www.tldraw.com",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "whiteboarding",
+      "diagrams-uml",
+      "design"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "Whiteboarding",
+      "Drawing",
+      "Embeddable Canvas"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "GitHub",
+      "VS Code"
+    ],
+    "capabilities": [
+      "Brainstorming",
+      "Sketching",
+      "Embeddable whiteboards"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source tldraw; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Gliffy",
+    "tagline": "Architecture and UML diagramming",
+    "description": "Gliffy helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "Gliffy is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://www.gliffy.com",
+    "pricing_url": null,
+    "docs_url": "https://www.gliffy.com",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "diagrams-uml",
+      "software-architecture",
+      "whiteboarding"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "UML",
+      "Sequence Diagrams",
+      "Class Diagrams",
+      "Architecture Diagrams"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Confluence",
+      "Jira"
+    ],
+    "capabilities": [
+      "Flowcharts",
+      "UML diagrams",
+      "Confluence diagrams"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Gliffy can be tried before committing to a paid plan.",
+        "restrictions": [
+          "Trial period and advanced features are time-limited."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Creately",
+    "tagline": "Architecture and UML diagramming",
+    "description": "Creately helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "Creately is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://creately.com",
+    "pricing_url": null,
+    "docs_url": "https://creately.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "whiteboarding",
+      "diagrams-uml",
+      "software-architecture"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "UML",
+      "Sequence Diagrams",
+      "Class Diagrams",
+      "Architecture Diagrams"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "GitHub",
+      "VS Code"
+    ],
+    "capabilities": [
+      "Visual databases",
+      "Flowcharts",
+      "Collaborative mapping"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Creately includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Visual Paradigm Online",
+    "tagline": "Architecture and UML diagramming",
+    "description": "Visual Paradigm Online helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "Visual Paradigm Online is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://online.visual-paradigm.com",
+    "pricing_url": null,
+    "docs_url": "https://online.visual-paradigm.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "diagrams-uml",
+      "software-architecture",
+      "whiteboarding"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "UML",
+      "Sequence Diagrams",
+      "Class Diagrams",
+      "Architecture Diagrams"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "GitHub",
+      "VS Code"
+    ],
+    "capabilities": [
+      "UML diagrams",
+      "BPMN",
+      "Org charts"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Visual Paradigm Online includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Nomnoml",
+    "tagline": "Architecture and UML diagramming",
+    "description": "Nomnoml helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "Nomnoml is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://www.nomnoml.com",
+    "pricing_url": null,
+    "docs_url": "https://www.nomnoml.com",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "diagrams-uml",
+      "documentation",
+      "non-ai-devtools"
+    ],
+    "technologies": [
+      "JavaScript",
+      "DSL"
+    ],
+    "features": [
+      "UML",
+      "Sequence Diagrams",
+      "Class Diagrams",
+      "Architecture Diagrams"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "GitHub",
+      "VS Code"
+    ],
+    "capabilities": [
+      "Class diagrams",
+      "Text-first UML",
+      "Quick embeds"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source Nomnoml; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "C4-PlantUML",
+    "tagline": "Architecture and UML diagramming",
+    "description": "C4-PlantUML helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "C4-PlantUML is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://github.com/plantuml-stdlib/C4-PlantUML",
+    "pricing_url": null,
+    "docs_url": "https://github.com/plantuml-stdlib/C4-PlantUML",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "diagrams-uml",
+      "software-architecture",
+      "documentation"
+    ],
+    "technologies": [
+      "PlantUML"
+    ],
+    "features": [
+      "UML",
+      "Sequence Diagrams",
+      "Class Diagrams",
+      "Architecture Diagrams"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "GitHub",
+      "VS Code"
+    ],
+    "capabilities": [
+      "C4 context diagrams",
+      "Container diagrams",
+      "Component diagrams"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source C4-PlantUML; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Microsoft Visio",
+    "tagline": "Architecture and UML diagramming",
+    "description": "Microsoft Visio helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "Microsoft Visio is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://www.microsoft.com/microsoft-365/visio/flowchart-software",
+    "pricing_url": null,
+    "docs_url": "https://www.microsoft.com/microsoft-365/visio/flowchart-software",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "diagrams-uml",
+      "software-architecture",
+      "whiteboarding"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "UML",
+      "Sequence Diagrams",
+      "Class Diagrams",
+      "Architecture Diagrams"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "Microsoft 365",
+      "Teams"
+    ],
+    "capabilities": [
+      "Enterprise diagrams",
+      "Network maps",
+      "Process charts"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Microsoft Visio can be tried before committing to a paid plan.",
+        "restrictions": [
+          "Trial period and advanced features are time-limited."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Swimm",
+    "tagline": "Architecture and UML diagramming",
+    "description": "Swimm helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "Swimm is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://swimm.io",
+    "pricing_url": null,
+    "docs_url": "https://swimm.io",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "documentation",
+      "software-architecture",
+      "developer-productivity"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "Code Documentation",
+      "Knowledge Sharing",
+      "Diagrams"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "GitHub",
+      "VS Code"
+    ],
+    "capabilities": [
+      "Code walkthroughs",
+      "Architecture knowledge",
+      "Living docs"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Swimm includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Ilograph",
+    "tagline": "Architecture and UML diagramming",
+    "description": "Ilograph helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "Ilograph is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://www.ilograph.com",
+    "pricing_url": null,
+    "docs_url": "https://www.ilograph.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "software-architecture",
+      "diagrams-uml",
+      "documentation"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "UML",
+      "Sequence Diagrams",
+      "Class Diagrams",
+      "Architecture Diagrams"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "GitHub",
+      "VS Code"
+    ],
+    "capabilities": [
+      "Interactive architecture maps",
+      "Cloud diagrams",
+      "Relationship views"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Ilograph includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "ZenUML",
+    "tagline": "Architecture and UML diagramming",
+    "description": "ZenUML helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "ZenUML is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://zenuml.com",
+    "pricing_url": null,
+    "docs_url": "https://zenuml.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "diagrams-uml",
+      "documentation",
+      "software-architecture"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "UML",
+      "Sequence Diagrams",
+      "Class Diagrams",
+      "Architecture Diagrams"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "GitHub",
+      "VS Code"
+    ],
+    "capabilities": [
+      "Sequence diagrams",
+      "Markdown embedding",
+      "Collaborative reviews"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "ZenUML includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "WebSequenceDiagrams",
+    "tagline": "Architecture and UML diagramming",
+    "description": "WebSequenceDiagrams helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "WebSequenceDiagrams is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://www.websequencediagrams.com",
+    "pricing_url": null,
+    "docs_url": "https://www.websequencediagrams.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "diagrams-uml",
+      "documentation",
+      "non-ai-devtools"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "UML",
+      "Sequence Diagrams",
+      "Class Diagrams",
+      "Architecture Diagrams"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "GitHub",
+      "VS Code"
+    ],
+    "capabilities": [
+      "Sequence diagrams",
+      "Text-first editing",
+      "Quick exports"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "WebSequenceDiagrams includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "StarUML",
+    "tagline": "Architecture and UML diagramming",
+    "description": "StarUML helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "StarUML is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://staruml.io",
+    "pricing_url": null,
+    "docs_url": "https://staruml.io",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "diagrams-uml",
+      "software-architecture",
+      "non-ai-devtools"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "UML",
+      "Sequence Diagrams",
+      "Class Diagrams",
+      "Architecture Diagrams"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub",
+      "VS Code"
+    ],
+    "capabilities": [
+      "UML diagrams",
+      "Code generation",
+      "Extensible modeling"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "StarUML can be tried before committing to a paid plan.",
+        "restrictions": [
+          "Trial period and advanced features are time-limited."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "UMLet",
+    "tagline": "Architecture and UML diagramming",
+    "description": "UMLet helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "UMLet is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://www.umlet.com",
+    "pricing_url": null,
+    "docs_url": "https://www.umlet.com",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "diagrams-uml",
+      "software-architecture",
+      "non-ai-devtools"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "UML",
+      "Sequence Diagrams",
+      "Class Diagrams",
+      "Architecture Diagrams"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub",
+      "VS Code"
+    ],
+    "capabilities": [
+      "Fast UML sketching",
+      "Offline editing",
+      "Simple exports"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source UMLet; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "yEd Graph Editor",
+    "tagline": "Architecture and UML diagramming",
+    "description": "yEd Graph Editor helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "yEd Graph Editor is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://www.yworks.com/products/yed",
+    "pricing_url": null,
+    "docs_url": "https://www.yworks.com/products/yed",
+    "pricing_status": "FREE_FOREVER",
+    "free_access_summary": "Free plan or free product available for ongoing core usage.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "diagrams-uml",
+      "software-architecture",
+      "non-ai-devtools"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "UML",
+      "Sequence Diagrams",
+      "Class Diagrams",
+      "Architecture Diagrams"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "integrations": [
+      "GitHub",
+      "VS Code"
+    ],
+    "capabilities": [
+      "Automatic layouts",
+      "Network diagrams",
+      "Entity relationship diagrams"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "yEd Graph Editor offers durable no-cost access for core usage.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Archi",
+    "tagline": "Architecture and UML diagramming",
+    "description": "Archi helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "Archi is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://www.archimatetool.com",
+    "pricing_url": null,
+    "docs_url": "https://www.archimatetool.com",
+    "pricing_status": "OPEN_SOURCE",
+    "free_access_summary": "Open source. Self-host or run locally; you provide infrastructure.",
+    "featured": false,
+    "flags": {
+      "is_open_source": true,
+      "self_hostable": true
+    },
+    "categories": [
+      "software-architecture",
+      "diagrams-uml",
+      "non-ai-devtools"
+    ],
+    "technologies": [
+      "Java"
+    ],
+    "features": [
+      "UML",
+      "Sequence Diagrams",
+      "Class Diagrams",
+      "Architecture Diagrams"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "GitHub",
+      "VS Code"
+    ],
+    "capabilities": [
+      "ArchiMate modeling",
+      "Enterprise architecture",
+      "Repository exports"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Open-source Archi; self-host or run it locally.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Mermaid Chart",
+    "tagline": "Architecture and UML diagramming",
+    "description": "Mermaid Chart helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "Mermaid Chart is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://www.mermaidchart.com",
+    "pricing_url": null,
+    "docs_url": "https://www.mermaidchart.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "diagrams-uml",
+      "software-architecture",
+      "documentation"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "UML",
+      "Sequence Diagrams",
+      "Class Diagrams",
+      "Architecture Diagrams"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "GitHub",
+      "VS Code"
+    ],
+    "capabilities": [
+      "Mermaid editing",
+      "Team collaboration",
+      "Shared diagram libraries"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "Mermaid Chart includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Terrastruct",
+    "tagline": "Architecture and UML diagramming",
+    "description": "Terrastruct helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "Terrastruct is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://terrastruct.com",
+    "pricing_url": null,
+    "docs_url": "https://terrastruct.com",
+    "pricing_status": "FREE_TRIAL",
+    "free_access_summary": "Time-limited trial available for evaluation.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "software-architecture",
+      "diagrams-uml",
+      "whiteboarding"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "UML",
+      "Sequence Diagrams",
+      "Class Diagrams",
+      "Architecture Diagrams"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "GitHub",
+      "VS Code"
+    ],
+    "capabilities": [
+      "Layered diagrams",
+      "Systems mapping",
+      "Presentation-ready visuals"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "TRIAL",
+        "description": "Terrastruct can be tried before committing to a paid plan.",
+        "restrictions": [
+          "Trial period and advanced features are time-limited."
+        ],
+        "requires_credit_card": false,
+        "expires": true
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "Asciiflow",
+    "tagline": "Architecture and UML diagramming",
+    "description": "Asciiflow helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "Asciiflow is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://asciiflow.com",
+    "pricing_url": null,
+    "docs_url": "https://asciiflow.com",
+    "pricing_status": "FREE_FOREVER",
+    "free_access_summary": "Free plan or free product available for ongoing core usage.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "diagrams-uml",
+      "documentation",
+      "non-ai-devtools"
+    ],
+    "technologies": [
+      "ASCII"
+    ],
+    "features": [
+      "UML",
+      "Sequence Diagrams",
+      "Class Diagrams",
+      "Architecture Diagrams"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "GitHub",
+      "VS Code"
+    ],
+    "capabilities": [
+      "ASCII diagrams",
+      "Quick terminal-friendly sketches",
+      "Text exports"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "UNLIMITED",
+        "description": "Asciiflow offers durable no-cost access for core usage.",
+        "restrictions": [],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "DrawSQL",
+    "tagline": "Architecture and UML diagramming",
+    "description": "DrawSQL helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "DrawSQL is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://drawsql.app",
+    "pricing_url": null,
+    "docs_url": "https://drawsql.app",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "database",
+      "diagrams-uml",
+      "software-architecture"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "UML",
+      "Sequence Diagrams",
+      "Class Diagrams",
+      "Architecture Diagrams"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "GitHub",
+      "VS Code"
+    ],
+    "capabilities": [
+      "ER diagrams",
+      "Schema collaboration",
+      "SQL exports"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "DrawSQL includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "QuickDBD",
+    "tagline": "Architecture and UML diagramming",
+    "description": "QuickDBD helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "QuickDBD is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://www.quickdatabasediagrams.com",
+    "pricing_url": null,
+    "docs_url": "https://www.quickdatabasediagrams.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "database",
+      "diagrams-uml",
+      "software-architecture"
+    ],
+    "technologies": [
+      "Markdown"
+    ],
+    "features": [
+      "UML",
+      "Sequence Diagrams",
+      "Class Diagrams",
+      "Architecture Diagrams"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "GitHub",
+      "VS Code"
+    ],
+    "capabilities": [
+      "Text-to-ERD",
+      "Schema modeling",
+      "Fast database planning"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "QuickDBD includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  },
+  {
+    "name": "PlantText",
+    "tagline": "Architecture and UML diagramming",
+    "description": "PlantText helps teams model flows, systems and UML-style diagrams in a visual or text-first workflow.",
+    "long_description": "PlantText is used for architecture reviews, API documentation and collaborative diagramming. It gives engineering teams a durable way to communicate structure, sequences and system boundaries.",
+    "website_url": "https://www.planttext.com",
+    "pricing_url": null,
+    "docs_url": "https://www.planttext.com",
+    "pricing_status": "FREE_TIER",
+    "free_access_summary": "Free tier available with limits on usage, seats, projects or advanced features.",
+    "featured": false,
+    "flags": {
+      "is_open_source": false,
+      "self_hostable": false
+    },
+    "categories": [
+      "diagrams-uml",
+      "documentation",
+      "software-architecture"
+    ],
+    "technologies": [
+      "PlantUML"
+    ],
+    "features": [
+      "UML",
+      "Sequence Diagrams",
+      "Class Diagrams",
+      "Architecture Diagrams"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "integrations": [
+      "GitHub",
+      "VS Code"
+    ],
+    "capabilities": [
+      "PlantUML editing",
+      "Rendering",
+      "Snippet sharing"
+    ],
+    "best_for": [
+      "Engineering teams documenting systems visually"
+    ],
+    "not_ideal_for": [
+      "People who only want polished design mockups instead of technical diagrams"
+    ],
+    "free_access": [
+      {
+        "type": "ALLOWANCE",
+        "description": "PlantText includes a free tier for evaluation or lighter ongoing use.",
+        "restrictions": [
+          "Usage, seats, projects or advanced features are limited on the free tier."
+        ],
+        "requires_credit_card": false,
+        "expires": false
+      }
+    ],
+    "pricing_plans": [],
+    "verified": false
+  }
+]

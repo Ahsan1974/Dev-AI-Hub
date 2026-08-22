@@ -1,0 +1,362 @@
+[
+  {
+    "name": "AI Coding",
+    "slug": "ai-coding",
+    "group": "Software Development",
+    "icon": "code",
+    "sort_order": 10,
+    "description": "Assistants that write, complete and explain code."
+  },
+  {
+    "name": "Coding Agents",
+    "slug": "coding-agents",
+    "group": "Software Development",
+    "icon": "bot",
+    "sort_order": 11,
+    "description": "Autonomous agents that execute multi-step development tasks."
+  },
+  {
+    "name": "AI IDE",
+    "slug": "ai-ide",
+    "group": "Software Development",
+    "icon": "window",
+    "sort_order": 12,
+    "description": "Editors and IDEs built around an AI workflow."
+  },
+  {
+    "name": "Code Generation",
+    "slug": "code-generation",
+    "group": "Software Development",
+    "icon": "wand",
+    "sort_order": 13,
+    "description": "Turn prompts, specs or designs into working code."
+  },
+  {
+    "name": "Code Review",
+    "slug": "code-review",
+    "group": "Software Development",
+    "icon": "check",
+    "sort_order": 14,
+    "description": "Automated review of pull requests and code quality."
+  },
+  {
+    "name": "Debugging",
+    "slug": "debugging",
+    "group": "Software Development",
+    "icon": "bug",
+    "sort_order": 15,
+    "description": "Diagnose failures, stack traces and runtime issues."
+  },
+  {
+    "name": "Testing",
+    "slug": "testing",
+    "group": "Software Development",
+    "icon": "flask",
+    "sort_order": 16,
+    "description": "Generate, run and maintain automated tests."
+  },
+  {
+    "name": "Software Architecture",
+    "slug": "software-architecture",
+    "group": "Software Development",
+    "icon": "blueprint",
+    "sort_order": 17,
+    "description": "Design systems, diagrams and technical decisions."
+  },
+  {
+    "name": "Documentation",
+    "slug": "documentation",
+    "group": "Software Development",
+    "icon": "book",
+    "sort_order": 18,
+    "description": "Write and maintain technical documentation."
+  },
+  {
+    "name": "API Development",
+    "slug": "api-development",
+    "group": "Software Development",
+    "icon": "plug",
+    "sort_order": 19,
+    "description": "Design, test and document APIs."
+  },
+  {
+    "name": "Database",
+    "slug": "database",
+    "group": "Software Development",
+    "icon": "database",
+    "sort_order": 20,
+    "description": "Query generation, schema design and data platforms."
+  },
+  {
+    "name": "DevOps",
+    "slug": "devops",
+    "group": "Software Development",
+    "icon": "rocket",
+    "sort_order": 21,
+    "description": "Build, deploy and operate infrastructure."
+  },
+  {
+    "name": "Security",
+    "slug": "security",
+    "group": "Software Development",
+    "icon": "shield",
+    "sort_order": 22,
+    "description": "Find vulnerabilities, secrets and insecure code."
+  },
+  {
+    "name": "Git & GitHub",
+    "slug": "git-and-github",
+    "group": "Software Development",
+    "icon": "git",
+    "sort_order": 23,
+    "description": "Pull requests, commits and repository workflows."
+  },
+  {
+    "name": "Developer Productivity",
+    "slug": "developer-productivity",
+    "group": "Software Development",
+    "icon": "bolt",
+    "sort_order": 24,
+    "description": "Terminals, launchers and everyday developer speed."
+  },
+  {
+    "name": "Research",
+    "slug": "research",
+    "group": "Research & Knowledge",
+    "icon": "microscope",
+    "sort_order": 30,
+    "description": "Literature review and evidence-backed answers."
+  },
+  {
+    "name": "AI Search",
+    "slug": "ai-search",
+    "group": "Research & Knowledge",
+    "icon": "search",
+    "sort_order": 31,
+    "description": "Answer engines with citations."
+  },
+  {
+    "name": "General AI",
+    "slug": "general-ai",
+    "group": "Research & Knowledge",
+    "icon": "sparkles",
+    "sort_order": 32,
+    "description": "General purpose assistants and chat models."
+  },
+  {
+    "name": "PDF Analysis",
+    "slug": "pdf-analysis",
+    "group": "Research & Knowledge",
+    "icon": "file",
+    "sort_order": 33,
+    "description": "Question and summarise documents."
+  },
+  {
+    "name": "Learning",
+    "slug": "learning",
+    "group": "Research & Knowledge",
+    "icon": "graduation",
+    "sort_order": 34,
+    "description": "Learn technologies and concepts faster."
+  },
+  {
+    "name": "Productivity",
+    "slug": "productivity",
+    "group": "Research & Knowledge",
+    "icon": "calendar",
+    "sort_order": 35,
+    "description": "Notes, meetings and personal workflow."
+  },
+  {
+    "name": "Image Generation",
+    "slug": "image-generation",
+    "group": "Generative Media",
+    "icon": "image",
+    "sort_order": 40,
+    "description": "Create images from text or references."
+  },
+  {
+    "name": "Image Editing",
+    "slug": "image-editing",
+    "group": "Generative Media",
+    "icon": "crop",
+    "sort_order": 41,
+    "description": "Edit, upscale and clean up images."
+  },
+  {
+    "name": "Video Generation",
+    "slug": "video-generation",
+    "group": "Generative Media",
+    "icon": "video",
+    "sort_order": 42,
+    "description": "Generate video from text or images."
+  },
+  {
+    "name": "Video Editing",
+    "slug": "video-editing",
+    "group": "Generative Media",
+    "icon": "scissors",
+    "sort_order": 43,
+    "description": "Edit, caption and repurpose video."
+  },
+  {
+    "name": "Audio",
+    "slug": "audio",
+    "group": "Generative Media",
+    "icon": "waveform",
+    "sort_order": 44,
+    "description": "Transcription, sound and audio processing."
+  },
+  {
+    "name": "Voice",
+    "slug": "voice",
+    "group": "Generative Media",
+    "icon": "mic",
+    "sort_order": 45,
+    "description": "Text to speech and voice cloning."
+  },
+  {
+    "name": "Music",
+    "slug": "music",
+    "group": "Generative Media",
+    "icon": "music",
+    "sort_order": 46,
+    "description": "Generate songs and instrumentals."
+  },
+  {
+    "name": "UI/UX",
+    "slug": "ui-ux",
+    "group": "Design & Content",
+    "icon": "layout",
+    "sort_order": 50,
+    "description": "Generate interfaces and frontend components."
+  },
+  {
+    "name": "Design",
+    "slug": "design",
+    "group": "Design & Content",
+    "icon": "palette",
+    "sort_order": 51,
+    "description": "Visual design, brand and graphics."
+  },
+  {
+    "name": "Presentations",
+    "slug": "presentations",
+    "group": "Design & Content",
+    "icon": "presentation",
+    "sort_order": 52,
+    "description": "Generate decks and slides."
+  },
+  {
+    "name": "Writing",
+    "slug": "writing",
+    "group": "Design & Content",
+    "icon": "pen",
+    "sort_order": 53,
+    "description": "Draft, edit and improve written content."
+  },
+  {
+    "name": "AI Agents",
+    "slug": "ai-agents",
+    "group": "AI Engineering",
+    "icon": "bot",
+    "sort_order": 60,
+    "description": "Frameworks for building autonomous agents."
+  },
+  {
+    "name": "LLM Development",
+    "slug": "llm-development",
+    "group": "AI Engineering",
+    "icon": "brain",
+    "sort_order": 61,
+    "description": "Build, orchestrate and evaluate LLM applications."
+  },
+  {
+    "name": "RAG",
+    "slug": "rag",
+    "group": "AI Engineering",
+    "icon": "layers",
+    "sort_order": 62,
+    "description": "Retrieval augmented generation and vector search."
+  },
+  {
+    "name": "MCP",
+    "slug": "mcp",
+    "group": "AI Engineering",
+    "icon": "plug",
+    "sort_order": 63,
+    "description": "Model Context Protocol servers and clients."
+  },
+  {
+    "name": "AI APIs",
+    "slug": "ai-apis",
+    "group": "AI Engineering",
+    "icon": "cloud",
+    "sort_order": 64,
+    "description": "Hosted model inference you can call from code."
+  },
+  {
+    "name": "Local AI",
+    "slug": "local-ai",
+    "group": "AI Engineering",
+    "icon": "cpu",
+    "sort_order": 65,
+    "description": "Run models on your own machine."
+  },
+  {
+    "name": "Open Source AI",
+    "slug": "open-source-ai",
+    "group": "AI Engineering",
+    "icon": "package",
+    "sort_order": 66,
+    "description": "Open models, weights and tooling."
+  },
+  {
+    "name": "AI Infrastructure",
+    "slug": "ai-infrastructure",
+    "group": "AI Engineering",
+    "icon": "server",
+    "sort_order": 67,
+    "description": "Serving, scaling and operating models."
+  },
+  {
+    "name": "Diagrams & UML",
+    "slug": "diagrams-uml",
+    "group": "Software Development",
+    "icon": "workflow",
+    "sort_order": 25,
+    "description": "Diagramming, UML and architecture visuals for software teams."
+  },
+  {
+    "name": "Whiteboarding",
+    "slug": "whiteboarding",
+    "group": "Design & Content",
+    "icon": "pencil",
+    "sort_order": 54,
+    "description": "Collaborative whiteboards for brainstorming, mapping and workshops."
+  },
+  {
+    "name": "Email",
+    "slug": "email",
+    "group": "Design & Content",
+    "icon": "mail",
+    "sort_order": 55,
+    "description": "Email clients, campaigns and transactional delivery tooling."
+  },
+  {
+    "name": "Spreadsheets",
+    "slug": "spreadsheets",
+    "group": "Design & Content",
+    "icon": "table",
+    "sort_order": 56,
+    "description": "Spreadsheet workflows, formulas, dashboards and tabular collaboration."
+  },
+  {
+    "name": "Non-AI DevTools",
+    "slug": "non-ai-devtools",
+    "group": "Software Development",
+    "icon": "wrench",
+    "sort_order": 26,
+    "description": "Classic developer tools that are useful without any AI workflow."
+  }
+]
