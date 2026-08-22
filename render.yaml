@@ -1,0 +1,33 @@
+# DevAI Hub — Render backend (free web service)
+# Connect this repo at https://dashboard.render.com → New → Blueprint
+#
+# After the API is live, set VITE_API_BASE_URL on Vercel to:
+#   https://YOUR-SERVICE.onrender.com/api
+
+services:
+  - type: web
+    name: devai-hub-api
+    runtime: python
+    plan: free
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /api/health
+    envVars:
+      - key: ENVIRONMENT
+        value: production
+      - key: DEBUG
+        value: "false"
+      - key: LOG_LEVEL
+        value: INFO
+      - key: DATABASE_URL
+        value: sqlite+aiosqlite:///./devai_hub.db
+      - key: AUTO_SEED
+        value: "true"
+      - key: CORS_ORIGINS
+        # Replace with your real Vercel URL after the first frontend deploy
+        value: https://dev-ai-hub.vercel.app,http://localhost:5173
+      - key: ADMIN_API_KEY
+        generateValue: true
+      - key: PYTHON_VERSION
+        value: "3.12.8"

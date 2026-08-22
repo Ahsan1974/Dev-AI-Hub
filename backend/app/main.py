@@ -25,11 +25,28 @@ logger = logging.getLogger("devai_hub")
 
 @asynccontextmanager
 async def lifespan(_: FastAPI):
-    # SQLite is the zero-setup dev path, so create its schema on boot.
+    # SQLite is the zero-setup path, so create its schema on boot.
     # PostgreSQL is owned by Alembic and is never touched implicitly.
     if settings.is_sqlite:
         await create_all(engine)
         logger.info("SQLite schema ensured at %s", settings.database_url)
+
+    if settings.auto_seed:
+        from sqlalchemy import func, select
+
+        from app.db.session import SessionFactory
+        from app.models.tool import Tool
+        from app.seed import seed
+
+        async with SessionFactory() as session:
+            count = await session.scalar(select(func.count()).select_from(Tool))
+            if not count:
+                logger.info("Empty catalogue detected — running auto-seed")
+                report = await seed(session)
+                logger.info("Auto-seed complete: %s", report.render())
+            else:
+                logger.info("Catalogue already has %s tools — skipping auto-seed", count)
+
     yield
     await engine.dispose()
 
@@ -68,6 +85,8 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=settings.cors_origin_list(),
+    # Preview + production Vercel apps (personal deploys).
+    allow_origin_regex=r"https://.*\.vercel\.app",
     allow_credentials=False,
     allow_methods=["GET", "POST", "PATCH", "PUT", "DELETE", "OPTIONS"],
     allow_headers=["Content-Type", "X-Admin-Api-Key", "X-Client-Id"],

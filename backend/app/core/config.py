@@ -56,6 +56,9 @@ class Settings(BaseSettings):
     web_search_provider: str = "none"
     web_search_api_key: str = ""
 
+    # When true, empty databases are seeded on startup (useful on free hosts).
+    auto_seed: bool = False
+
     @field_validator("cors_origins", mode="before")
     @classmethod
     def _normalize_cors_origins(cls, value: object) -> object:
